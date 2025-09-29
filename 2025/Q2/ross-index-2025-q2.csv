@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised,Repo Link,Repo Language,Stars Beginning (k),Stars End (k),Date End,Stars Growth
+641656392,unionlabs/union,Union Labs,https://union.build,United States,"Dover, DE",2023,16.0,https://github.com/unionlabs/union,Rust,1.0,54.2,2025-04-16,54.2
+439772085,linera-io/linera-protocol,Linera,https://linera.io,United States,San Francisco,2021,12.0,https://github.com/linera-io/linera-protocol,Rust,1.4,21.2,2025-04-15,14.6
+939470275,sesameailabs/csm,Sesame,https://sesame.com,United States,San Francisco,2022,57.6,https://github.com/sesameailabs/csm,Python,1.0,13.4,2025-05-30,13.4
+949271792,mindverse/second-me,Mindverse,https://mindverse.ai,Singapore,Singapore,2022,29.9,https://github.com/mindverse/second-me,Python,1.0,12.8,2025-06-19,12.8
+910986056,browser-use/web-ui,Browser Use,https://browser-use.com,Switzerland,Zurich,2024,17.5,https://github.com/browser-use/web-ui,Python,1.0,11.5,2025-04-09,11.5
+896296825,jlowin/fastmcp,Prefect,https://prefect.io,United States,"Washington, DC",2018,60.0,https://github.com/jlowin/fastmcp,Python,1.0,10.6,2025-05-24,10.2
+839037098,mastra-ai/mastra,Mastra,https://mastra.ai,United States,San Francisco,2024,0.5,https://github.com/mastra-ai/mastra,TypeScript,1.2,11.8,2025-04-10,9.9
+907627874,duixcom/duix.heygem,DUIX,https://duix.com,Singapore,Singapore,2017,,https://github.com/duixcom/duix.heygem,C,1.0,9.7,2025-06-09,9.7
+598667202,lightpanda-io/browser,Lightpanda,https://lightpanda.io,France,Paris,2022,,https://github.com/lightpanda-io/browser,Zig,1.0,8.2,2025-04-17,8.2
+797371964,oumi-ai/oumi,Oumi,https://oumi.ai,United States,"Seattle, WA",2024,10.0,https://github.com/oumi-ai/oumi,Python,1.0,8.1,2025-05-02,8.1
+805155266,cherryhq/cherry-studio,Cherry Studio,https://cherry-ai.com,China,Shanghai,2021,,https://github.com/cherryhq/cherry-studio,TypeScript,2.7,21.6,2025-04-01,7.9
+898736877,langchain-ai/local-deep-researcher,LangChain,https://langchain.com,United States,San Francisco,2022,35.0,https://github.com/langchain-ai/local-deep-researcher,Python,1.0,7.2,2025-04-26,7.2
+928631159,zyphra/zonos,Zyphra,https://zyphra.com,United States,"Palo Alto, SF",2021,,https://github.com/zyphra/zonos,Python,1.0,6.6,2025-05-12,6.6
+910418754,nanobrowser/nanobrowser,Leopard Labs,https://nanobrowser.ai,Singapore,Singapore,2024,,https://github.com/nanobrowser/nanobrowser,TypeScript,1.0,6.3,2025-06-10,6.3
+900577388,crestalnetwork/intentkit,Crestal,https://crestal.network,United States,San Francisco,2024,2.0,https://github.com/crestalnetwork/intentkit,Python,1.0,6.2,2025-04-21,6.2
+847717439,raga-ai-hub/ragaai-catalyst,RagaAI,https://raga.ai,India,India,2021,4.7,https://github.com/raga-ai-hub/ragaai-catalyst,Python,2.6,15.7,2025-04-01,6.1
+926252103,mail-0/zero,Zero,https://0.email,United States,San Francisco,2025,0.5,https://github.com/mail-0/zero,TypeScript,1.0,6.0,2025-05-09,6.0
+863835427,fosrl/pangolin,Pangolin,https://digpangolin.com,United States,,2024,,https://github.com/fosrl/pangolin,TypeScript,1.0,5.7,2025-04-16,5.7
+926639724,nickscamara/open-deep-research,Firecrawl,https://firecrawl.dev,United States,San Francisco,2022,,https://github.com/nickscamara/open-deep-research,TypeScript,1.0,5.5,2025-05-07,5.5
+905016458,lastmile-ai/mcp-agent,LastMile AI,https://lastmileai.dev,United States,New York,2023,10.0,https://github.com/lastmile-ai/mcp-agent,Python,1.0,5.5,2025-06-10,5.5

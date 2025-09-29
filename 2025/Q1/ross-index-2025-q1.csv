@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised,Repo Link,Repo Language,Stars Beginning (k),Stars End (k),Date End,Stars Growth
+335243209,anoma/anoma,Anoma,https://anoma.net,Switzerland,"Zug, Switzerland",2020,57.8,https://github.com/anoma/anoma,Elixir,1.0,27.2,2025-03-17,27.2
+881458615,browser-use/browser-use,Browser Use,https://browser-use.com,United States,San Francisco,2024,17.5,https://github.com/browser-use/browser-use,Python,1.0,24.0,2025-02-05,24.0
+851321035,aidenybai/react-scan,Million,https://million.dev,United States,San Francisco,2023,0.5,https://github.com/aidenybai/react-scan,TypeScript,1.0,14.7,2025-02-14,14.7
+826170402,elizaos/eliza,elizaOS,https://elizaos.ai,United States,San Francisco,2024,,https://github.com/elizaos/eliza,TypeScript,1.0,14.4,2025-02-14,14.4
+439772085,linera-io/linera-protocol,Linera,https://linera.io,United States,San Francisco,2021,12.0,https://github.com/linera-io/linera-protocol,Rust,1.4,20.5,2025-03-31,14.3
+847717439,raga-ai-hub/ragaai-catalyst,RagaAI,https://raga.ai,India,India,2021,4.7,https://github.com/raga-ai-hub/ragaai-catalyst,Python,1.1,14.9,2025-03-07,13.5
+805155266,cherryhq/cherry-studio,Cherry Studio,https://cherry-ai.com,China,"Shanghai, China",2021,,https://github.com/cherryhq/cherry-studio,TypeScript,1.6,18.4,2025-03-08,11.5
+839037098,mastra-ai/mastra,Mastra,https://mastra.ai,United States,San Francisco,2024,0.5,https://github.com/mastra-ai/mastra,TypeScript,1.2,11.5,2025-03-31,9.7
+683347556,tursodatabase/limbo,Turso,https://turso.tech,United States,"Claymont, DE",2021,7.0,https://github.com/tursodatabase/limbo,Rust,1.0,9.7,2025-03-09,9.3
+709027512,getmaxun/maxun,Maxun,https://maxun.dev,India,"Mumbai, India",2023,,https://github.com/getmaxun/maxun,TypeScript,1.0,8.8,2025-01-30,8.8
+776908852,browserbase/stagehand,Browserbase,https://browserbase.com,United States,San Francisco,2024,27.4,https://github.com/browserbase/stagehand,TypeScript,1.0,7.3,2025-02-06,7.3
+895942941,cyclotruc/gitingest,Coderamp,https://coderamp.io,France,"Lyon, France",2024,,https://github.com/cyclotruc/gitingest,Python,1.0,7.2,2025-03-11,7.2
+818331198,pydantic/pydantic-ai,Pydantic,https://pydantic.dev,United Kingdom,London,2017,17.2,https://github.com/pydantic/pydantic-ai,Python,1.0,6.9,2025-03-08,6.9
+807512074,quivrhq/megaparse,Quivr,https://quivr.app,United States,New York,2022,3.6,https://github.com/quivrhq/megaparse,Python,1.0,5.8,2025-03-07,5.8
+859600320,raidendotai/cofounder,OpenInterface,https://openinterface.ai,United States,"Wilmington, DE",2024,,https://github.com/raidendotai/cofounder,TypeScript,1.0,5.8,2025-01-31,5.8
+871781831,readest/readest,Readest,https://readest.com,Germany,Germany,2024,,https://github.com/readest/readest,TypeScript,1.0,5.5,2025-03-22,5.5
+803014189,better-auth/better-auth,Better Auth,https://better-auth.com,Ethiopia,"Addis Ababa, Ethiopia",2024,,https://github.com/better-auth/better-auth,TypeScript,1.1,5.6,2025-01-01,5.1
+571186647,pathwaycom/pathway,Pathway,https://pathway.com,France,"Paris, France",2020,14.5,https://github.com/pathwaycom/pathway,Python,4.4,22.4,2025-03-08,5.1
+887503379,toolbeam/openauth,SST,https://sst.dev,United States,San Francisco,2017,1.6,https://github.com/toolbeam/openauth,TypeScript,1.0,4.8,2025-03-10,4.8
+831872524,getomni-ai/zerox,OmniAI,https://getomni.ai,United States,San Francisco,2023,3.7,https://github.com/getomni-ai/zerox,TypeScript,1.6,7.7,2025-01-05,4.8
