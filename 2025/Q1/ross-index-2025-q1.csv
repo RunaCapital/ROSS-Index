@@ -1,21 +1,21 @@
-Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised,Repo Link,Repo Language,Stars Beginning (k),Stars End (k),Date End,Stars Growth
-335243209,anoma/anoma,Anoma,https://anoma.net,Switzerland,"Zug, Switzerland",2020,57.8,https://github.com/anoma/anoma,Elixir,1.0,27.2,2025-03-17,27.2
-881458615,browser-use/browser-use,Browser Use,https://browser-use.com,United States,San Francisco,2024,17.5,https://github.com/browser-use/browser-use,Python,1.0,24.0,2025-02-05,24.0
-851321035,aidenybai/react-scan,Million,https://million.dev,United States,San Francisco,2023,0.5,https://github.com/aidenybai/react-scan,TypeScript,1.0,14.7,2025-02-14,14.7
-826170402,elizaos/eliza,elizaOS,https://elizaos.ai,United States,San Francisco,2024,,https://github.com/elizaos/eliza,TypeScript,1.0,14.4,2025-02-14,14.4
-439772085,linera-io/linera-protocol,Linera,https://linera.io,United States,San Francisco,2021,12.0,https://github.com/linera-io/linera-protocol,Rust,1.4,20.5,2025-03-31,14.3
-847717439,raga-ai-hub/ragaai-catalyst,RagaAI,https://raga.ai,India,India,2021,4.7,https://github.com/raga-ai-hub/ragaai-catalyst,Python,1.1,14.9,2025-03-07,13.5
-805155266,cherryhq/cherry-studio,Cherry Studio,https://cherry-ai.com,China,"Shanghai, China",2021,,https://github.com/cherryhq/cherry-studio,TypeScript,1.6,18.4,2025-03-08,11.5
-839037098,mastra-ai/mastra,Mastra,https://mastra.ai,United States,San Francisco,2024,0.5,https://github.com/mastra-ai/mastra,TypeScript,1.2,11.5,2025-03-31,9.7
-683347556,tursodatabase/limbo,Turso,https://turso.tech,United States,"Claymont, DE",2021,7.0,https://github.com/tursodatabase/limbo,Rust,1.0,9.7,2025-03-09,9.3
-709027512,getmaxun/maxun,Maxun,https://maxun.dev,India,"Mumbai, India",2023,,https://github.com/getmaxun/maxun,TypeScript,1.0,8.8,2025-01-30,8.8
-776908852,browserbase/stagehand,Browserbase,https://browserbase.com,United States,San Francisco,2024,27.4,https://github.com/browserbase/stagehand,TypeScript,1.0,7.3,2025-02-06,7.3
-895942941,cyclotruc/gitingest,Coderamp,https://coderamp.io,France,"Lyon, France",2024,,https://github.com/cyclotruc/gitingest,Python,1.0,7.2,2025-03-11,7.2
-818331198,pydantic/pydantic-ai,Pydantic,https://pydantic.dev,United Kingdom,London,2017,17.2,https://github.com/pydantic/pydantic-ai,Python,1.0,6.9,2025-03-08,6.9
-807512074,quivrhq/megaparse,Quivr,https://quivr.app,United States,New York,2022,3.6,https://github.com/quivrhq/megaparse,Python,1.0,5.8,2025-03-07,5.8
-859600320,raidendotai/cofounder,OpenInterface,https://openinterface.ai,United States,"Wilmington, DE",2024,,https://github.com/raidendotai/cofounder,TypeScript,1.0,5.8,2025-01-31,5.8
-871781831,readest/readest,Readest,https://readest.com,Germany,Germany,2024,,https://github.com/readest/readest,TypeScript,1.0,5.5,2025-03-22,5.5
-803014189,better-auth/better-auth,Better Auth,https://better-auth.com,Ethiopia,"Addis Ababa, Ethiopia",2024,,https://github.com/better-auth/better-auth,TypeScript,1.1,5.6,2025-01-01,5.1
-571186647,pathwaycom/pathway,Pathway,https://pathway.com,France,"Paris, France",2020,14.5,https://github.com/pathwaycom/pathway,Python,4.4,22.4,2025-03-08,5.1
-887503379,toolbeam/openauth,SST,https://sst.dev,United States,San Francisco,2017,1.6,https://github.com/toolbeam/openauth,TypeScript,1.0,4.8,2025-03-10,4.8
-831872524,getomni-ai/zerox,OmniAI,https://getomni.ai,United States,San Francisco,2023,3.7,https://github.com/getomni-ai/zerox,TypeScript,1.6,7.7,2025-01-05,4.8
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+335243209,anoma/anoma,Anoma,anoma.net,Switzerland,Zug,2020,57.80,Elixir,978,27218,27.22,2024-12-17,2025-03-17
+881458615,browser-use/browser-use,Browser Use,browser-use.com,United States,San Francisco,2024,17.50,Python,759,23961,23.96,2024-11-07,2025-02-05
+851321035,aidenybai/react-scan,Million,million.dev,United States,San Francisco,2023,0.50,TypeScript,899,14697,14.70,2024-11-16,2025-02-14
+826170402,elizaos/eliza,elizaOS,elizaos.ai,United States,San Francisco,2024,,TypeScript,989,14356,14.36,2024-11-16,2025-02-14
+439772085,linera-io/linera-protocol,Linera,linera.io,United States,San Francisco,2021,12.00,Rust,1435,20485,14.28,2024-12-31,2025-03-31
+847717439,raga-ai-hub/ragaai-catalyst,RagaAI,raga.ai,India,India,2021,4.70,Python,1105,14940,13.52,2024-12-07,2025-03-07
+805155266,cherryhq/cherry-studio,Cherry Studio,cherry-ai.com,China,Shanghai,2021,,TypeScript,1605,18424,11.48,2024-12-08,2025-03-08
+839037098,mastra-ai/mastra,Mastra,mastra.ai,United States,San Francisco,2024,0.50,TypeScript,1175,11453,9.75,2024-12-31,2025-03-31
+683347556,tursodatabase/limbo,Turso,turso.tech,United States,"Claymont, DE",2021,7.00,Rust,1049,9744,9.29,2024-12-09,2025-03-09
+709027512,getmaxun/maxun,Maxun,maxun.dev,India,Mumbai,2023,,TypeScript,866,8841,8.84,2024-11-01,2025-01-30
+776908852,browserbase/stagehand,Browserbase,browserbase.com,United States,San Francisco,2024,27.40,TypeScript,961,7294,7.29,2024-11-08,2025-02-06
+895942941,cyclotruc/gitingest,Coderamp,coderamp.io,France,Lyon,2024,,Python,759,7248,7.25,2024-12-11,2025-03-11
+818331198,pydantic/pydantic-ai,Pydantic,pydantic.dev,United Kingdom,London,2017,17.20,Python,66,6900,6.90,2024-12-08,2025-03-08
+807512074,quivrhq/megaparse,Quivr,quivr.app,United States,New York,2022,3.55,Python,770,5819,5.82,2024-12-07,2025-03-07
+859600320,raidendotai/cofounder,OpenInterface,openinterface.ai,United States,"Wilmington, DE",2024,,TypeScript,484,5817,5.82,2024-11-02,2025-01-31
+871781831,readest/readest,Readest,readest.com,Germany,Germany,2024,,TypeScript,966,5450,5.45,2024-12-22,2025-03-22
+803014189,better-auth/better-auth,Better Auth,better-auth.com,Ethiopia,Addis Ababa,2024,,TypeScript,1103,5640,5.11,2024-10-03,2025-01-01
+571186647,pathwaycom/pathway,Pathway,pathway.com,France,Paris,2020,14.50,Python,4389,22374,5.10,2024-12-08,2025-03-08
+887503379,toolbeam/openauth,SST,sst.dev,United States,San Francisco,2017,1.62,TypeScript,279,4807,4.81,2024-12-10,2025-03-10
+831872524,getomni-ai/zerox,OmniAI,getomni.ai,United States,San Francisco,2023,3.70,TypeScript,1621,7745,4.78,2024-10-07,2025-01-05

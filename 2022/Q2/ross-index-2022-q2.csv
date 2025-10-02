@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+3544424,httpie/httpie,HTTPie,httpie.io,Czech Republic,Prague,2020,6.50,Python,1517,22286,14.69,2022-03-30,2022-06-30
+384219990,warpdotdev/warp,Warp,warp.dev,United States,New York,2020,23.00,,1344,6548,4.87,2022-03-30,2022-06-30
+222824662,dagger/dagger,Dagger,dagger.io,United States,San Francisco,2018,30.00,CUE,1430,5571,3.90,2022-03-30,2022-06-30
+422274596,hpcaitech/colossalai,HPC-AI Tech,hpcaitech.com,Singapore,Singapore,2021,4.70,Python,1640,4029,2.46,2022-03-30,2022-06-30
+416157128,mosaicml/composer,MosaicML,mosaicml.com,United States,San Francisco,2020,37.00,Python,1057,2206,2.09,2022-03-30,2022-06-30
+376124046,multiprocessio/datastation,Multiprocess Labs,datastation.multiprocess.io,United States,New York,2021,,TypeScript,1308,2340,1.79,2022-03-30,2022-06-30
+368917877,builderio/qwik,Builder,builder.io,United States,San Francisco,2018,17.30,TypeScript,2629,4441,1.69,2022-03-30,2022-06-30
+257787813,firezone/firezone,Firezone,firezone.dev,United States,Mountain View,2021,,Elixir,1464,2320,1.59,2022-03-30,2022-06-30
+390399065,themesberg/flowbite,Themesberg,themesberg.com,Romania,Timisoara,2019,,HTML,1240,1937,1.56,2022-03-30,2022-06-30
+268163609,qdrant/qdrant,Qdrant,qdrant.tech,Germany,Berlin,2021,2.30,Rust,1256,1935,1.54,2022-03-30,2022-06-30
+299832860,livekit/livekit,LiveKit,livekit.io,United States,San Francisco,2021,7.00,Go,2316,3556,1.54,2022-03-30,2022-06-30
+348822769,nuxt/framework,NuxtLabs,nuxtlabs.com,France,Bordeaux,2017,2.00,TypeScript,5180,7792,1.50,2022-03-30,2022-06-30
+337414495,nhost/nhost,Nhost,nhost.io,Sweden,Stockholm,2019,3.11,TypeScript,2079,3121,1.50,2022-03-30,2022-06-30
+277621205,getumbrel/umbrel,Umbrel,umbrel.com,India,,2020,3.00,HTML,1642,2462,1.50,2022-03-30,2022-06-30
+157402758,safing/portmaster,Safing,safing.io,Austria,Baden,2017,,Go,2426,3613,1.49,2022-03-30,2022-06-30
+359419233,up9inc/mizu,Up9 Inc.,up9.com,United States,Palo Alto,2019,,Go,2477,3685,1.49,2022-03-30,2022-06-30
+408858330,raycast/extensions,Raycast,raycast.com,United Kingdom,London,2020,17.60,TypeScript,1237,1837,1.49,2022-03-30,2022-06-30
+357707809,quickwit-oss/quickwit,Quickwit,quickwit.io,United States,San Francisco,2020,2.60,Rust,1365,2019,1.48,2022-03-30,2022-06-30
+257913595,voxel51/fiftyone,Voxel51,voxel51.com,United States,Ann Arbor,2018,3.30,Python,1146,1678,1.46,2022-03-30,2022-06-30
+235468657,pipedreamhq/pipedream,Pipedream,pipedream.com,United States,San Francisco,2019,22.00,JavaScript,2485,3617,1.46,2022-03-30,2022-06-30

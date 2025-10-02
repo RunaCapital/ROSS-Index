@@ -1,0 +1,41 @@
+# Top trending open-source startups in Q3 2020
+
+1. 🇪🇪 **[Plausible](https://plausible.io/) (plausible/analytics, 2.9K stars, 2527% AGR).** Web analytics service (an open-source alternative to Google Analytics). Founded in 2018 in Estonia. Noteworthy, its founders [do not raise external funding](https://plausible.io/about) to remain a fully independent analytics company.
+
+2. 🇫🇷 **[Hugging Face](https://huggingface.co/) (huggingface/datasets, 3.4K stars, 2471% AGR).** The developer of the NLP-library Transformers, that debuted in the previous issue of our index. Founded in 2016 in Paris and raised $20.2M from Lux Capital, SV Angel, A.Capital, etc.
+
+3. 🇩🇪 **[Gitpod](https://gitpod.io/) (gitpod-io/gitpod, 2.5K stars, 1383% AGR).** Cloud integrated development environment (IDE). Founded in 2019 in Kiel, Germany and raised $3M from Speedinvest, Crane Venture Partners, Vertex Ventures.
+
+4. 🇺🇸 **[Prefect](https://www.prefect.io/) (prefecthq/prefect, 5.1K stars, 923% AGR).** Data workflow automation platform. Founded in 2018 in Washington, D.C., and raised $2.5M from unknown investors.
+
+5. 🇱🇺 **[Passbolt](https://www.passbolt.com/) (passbolt/passbolt_api, 2.2K stars, 503% AGR).** Password manager for teams. Founded in 2016 in Luxembourg and raised ~$0.74M from Expon Capital.
+
+6. 🇫🇷 **[Meili](https://meilisearch.com/) (meilisearch/meilisearch, 9.2K stars, 385% AGR).** API-focused fast search engine (an alternative to ElasticSearch and Algolia). Founded in 2018 in Paris and raised $1.5M from LocalGlobe, Seedcamp, Kima, etc.
+
+7. 🇺🇸 **[QAWolf](https://www.qawolf.com/) (qawolf/qawolf, 2.1K stars, 374% AGR).** Browser testing service. Founded in 2019 in New York and has no known external funding to date.
+
+8. 🇨🇳 **[VESoft](https://www.nebula-cloud.io/) (vesoft-inc/nebula, 4.5K stars, 351% AGR).** The developer of distributed and fast graph database [NebulaGraph](https://nebula-graph.io/). Founded in 2018 in Hangzhou, China and raised $8M from Redpoint and Matrix Partners.
+
+9. 🇪🇸 **[Frontity](https://frontity.org/) (frontity/frontity, 1.5K stars, 299% AGR).** React framework for building headless WordPress websites. Founded in 2015 in Madrid and raised $1.6M from K Fund.
+
+10. 🇩🇪 **[Checkly](https://www.checklyhq.com/) (checkly/headless-recorder, 10K stars, 283% AGR).** Active monitoring and end-to-end-testing platform for developers. Founded in 2018 in Berlin and raised $2.3M from Accel, etc
+
+11. 🇩🇪 **[Prisma](https://www.prisma.io/) (prisma/prisma, 5.5K stars, 262% AGR).** Database toolkit for TypeScript and Node.js. Founded in 2016 in Berlin raised $16.5M from Kleiner Perkins, Mango Capital, Amplify Partners, etc
+
+12. 🇩🇪 **[ORY](https://www.ory.sh/) (ory/kratos, 1.4K stars, 209% AGR).** Identity and access control infrastructure for cloud developers. Founded in 2015 in Munich and has no known external funding to date.
+
+13. 🇸🇬 **[Supabase](https://supabase.io/) (supabase/supabase, 2.3K stars, 207% AGR).** Low-code API solution for PostgreSQL database (an open-source alternative to Firebase). Founded in 2020 in Singapore and raised $125k from Y Combinator.
+
+14. 🇫🇷 **[Chaosix](https://www.chaosix.com/) (relativty/relativty, 4.9K stars, 199% AGR).** Stealth-mode VR startup by creators of open-source VR headset [Relativty](https://www.relativty.com/). Founded in 2020 in Paris and raised the unknown amount from The Family.
+
+15. 🇯🇵 **[BoostIO](https://boostio.co/) (boostio/boostnote.next, 1.8K stars, 175% AGR).** The creator of Boosthub, a collaborative platform for developers. Founded in 2014 in Tokyo and raised ~$0.95M from ANRI, F Ventures, etc.
+
+16. 🇺🇸 **[BentoML](https://www.bentoml.ai/) (bentoml/bentoml, 1.7K stars, 171% AGR).** A platform for high-performance ML model serving. Founded in 2018 in San Francisco and raised the unknown amount from Alchemist Accelerator.
+
+17. 🇳🇱 **[Framer](https://framer.com/) (framer/motion, 7.3K stars, 169% AGR).** Prototyping tools for teams trending with its OS library Motion. Founded in 2013 in Amsterdam and raised $33M by from Atomico, Accel, Foundation Capital, etc.
+
+18. 🇨🇦 **[Uno Platform](https://platform.uno/) (unoplatform/uno, 2.9K stars, 161% AGR).** An app development platform for C# and WinUI. Founded in 2011 in Montreal and has no known external funding to date.
+
+19. 🇮🇱 **[Alegro](https://allegro.ai/) (allegroai/trains, 1.8K stars, 148% AGR).** A platform for the management of ML products life-cycle. Founded in 2016 in Tel Aviv and raised $11M from MizMaa Ventures, Samsung Catalyst, Hyundai, etc.
+
+20. 🇬🇧 **[PostHog](https://posthog.com/) (posthog/posthog, 3.2K stars, 148% AGR).** Product analytics service (an open-source alternative to Mixpanel). Founded in 2020 in London and raised $3M from 1984 Ventures, Y Combinator, etc.

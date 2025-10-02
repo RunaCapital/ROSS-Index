@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+718379614,builderio/gpt-crawler,Builder.io,builder.io,United States,San Francisco,2019,17.25,TypeScript,899,16745,16.75,2023-11-17,2024-02-15
+725089041,myshell-ai/openvoice,MyShell,myshell.ai,United States,San Francisco,2023,16.60,Python,505,16309,16.31,2024-01-01,2024-03-31
+679506386,janhq/jan,Jan,jan.ai,Singapore,Singapore,2023,,TypeScript,538,14248,14.25,2024-01-01,2024-03-31
+643445235,lobehub/lobe-chat,LobeHub,lobehub.com,China,Hangzhou,2023,,TypeScript,1053,14570,13.84,2023-10-03,2024-01-01
+710601088,joaomdmoura/crewai,CrewAI,crewai.com,Brazil,São Paulo,2023,,Python,990,10786,10.79,2024-01-01,2024-03-31
+728981719,conductor-oss/conductor,Orkes,orkes.io,United States,Cupertino,2021,29.30,Java,1003,7067,7.05,2024-01-01,2024-03-31
+714143245,othersideai/self-operating-computer,Hyper Write,hyperwriteai.com,United States,New York,2020,5.40,Python,779,6547,6.55,2023-11-29,2024-02-27
+719455172,run-llama/rags,LlamaIndex,llamaindex.ai,United States,San Francisco,2023,8.50,Python,943,5544,5.54,2023-11-25,2024-02-23
+460914281,avaiga/taipy,Taipy,taipy.io,France,Orsay,2020,,Python,973,5535,5.54,2023-11-24,2024-02-22
+714388063,langchain-ai/opengpts,LangChain,langchain.com,United States,San Francisco,2022,35.00,Rich Text Format,694,5485,5.49,2023-11-09,2024-02-07
+542284380,usebruno/bruno,Bruno,usebruno.com,India,Bangalore,2021,,JavaScript,1959,10410,5.31,2023-10-03,2024-01-01
+693037145,pydantic/fastui,Pydantic,pydantic.dev,United Kingdom,London,2022,4.70,Python,940,4458,4.46,2023-12-03,2024-03-02
+530655405,superduperdb/superduperdb,SuperDuperDB,superduperdb.com,Germany,Berlin,2023,,Python,824,4177,4.18,2023-12-07,2024-03-06
+679237742,pythagora-io/gpt-pilot,Pythagora,pythagora.io,Croatia,Zagreb,2023,0.50,Python,4584,18767,4.09,2023-10-03,2024-01-01
+600596928,danny-avila/librechat,LibreChat,librechat.ai,United States,New York,2023,,TypeScript,1960,7509,3.83,2023-11-08,2024-02-06
+725205304,unslothai/unsloth,Unsloth AI,unsloth.ai,Australia,Sydney,2023,,Python,597,3672,3.67,2023-12-02,2024-03-01
+655515393,copilotkit/copilotkit,CopilotKit,recursively.ai,United States,Seattle,2023,,TypeScript,955,3631,3.63,2023-12-07,2024-03-06
+658928958,ollama/ollama,Ollama,ollama.com,Canada,Toronto,2023,,Go,8013,28949,3.61,2023-10-03,2024-01-01
+649170660,mintplex-labs/anything-llm,Mintplex Labs,mintplexlabs.com,United States,Irvine,2022,,JavaScript,2794,8821,3.16,2023-12-10,2024-03-09
+664013991,gitroomhq/gitroom,Gitroom,gitroom.com,Israel,Tel-Aviv,2023,,TypeScript,899,2942,2.94,2023-10-06,2024-01-04

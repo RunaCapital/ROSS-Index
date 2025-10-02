@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+656099147,embedchain/embedchain,Embedchain,embedchain.ai,United States,San Francisco,2023,,Python,2916,5322,1.83,2023-06-30,2023-09-30
+626805178,langgenius/dify,LangGenius,dify.ai,United States,New York,2023,,TypeScript,5070,8717,1.72,2023-06-30,2023-09-30
+95614931,manticoresoftware/manticoresearch,Manticore Search,manticoresearch.com,United Kingdom,Gillingham,2017,,C++,3788,6328,1.67,2023-06-30,2023-09-30
+621803253,flowiseai/flowise,FlowiseAI,flowiseai.com,United States,San Francisco,2023,0.50,TypeScript,9796,16211,1.66,2023-06-30,2023-09-30
+515647260,1panel-dev/1panel,1Panel,1panel.cn,China,Beijing,2014,26.00,Go,7242,11419,1.58,2023-06-30,2023-09-30
+568098118,makeplane/plane,Plane,plane.so,United States,Delaware,2022,,TypeScript,11045,16983,1.54,2023-06-30,2023-09-30
+265612440,coqui-ai/tts,Coqui,coqui.ai,Germany,Berlin,2021,3.30,Python,12925,19461,1.51,2023-06-30,2023-09-30
+357728969,oven-sh/bun,Oven,oven.sh,United States,San Francisco,2019,7.00,Zig,42328,63390,1.50,2023-06-30,2023-09-30
+365739812,tldraw/tldraw,Tldraw,tldraw.com,United Kingdom,London,2021,2.70,TypeScript,14216,21162,1.49,2023-06-30,2023-09-30
+410430370,icewhaletech/casaos,IceWhale Technology,casaos.io,China,Shanghai,2020,3.70,Go,10979,16165,1.47,2023-06-30,2023-09-30
+329782568,dioxuslabs/dioxus,DioxusLabs,dioxuslabs.com,United States,San Francisco,2023,0.50,Rust,9925,14088,1.42,2023-06-30,2023-09-30
+521655652,infisical/infisical,Infisical,infisical.com,United States,San Francisco,2022,2.92,TypeScript,6848,9714,1.42,2023-06-30,2023-09-30
+357897199,netbirdio/netbird,NetBird,netbird.io,Germany,Berlin,2022,1.20,Go,4640,6542,1.41,2023-06-30,2023-09-30
+557075997,reflex-dev/reflex,Reflex,reflex.dev,United States,San Francisco,2022,5.50,Python,9239,12992,1.41,2023-06-30,2023-09-30
+535360445,ultralytics/ultralytics,Ultralytics,ultralytics.com,United States,Los Angeles,2022,,Python,9692,13332,1.38,2023-06-30,2023-09-30
+596377730,openobserve/openobserve,OpenObserve,openobserve.ai,United States,San Francisco,2022,3.60,Rust,4915,6708,1.37,2023-06-30,2023-09-30
+640182997,transformeroptimus/superagi,SuperAGI,superagi.com,United States,Newark,2023,,Python,9267,12424,1.34,2023-06-30,2023-09-30
+614764248,tabbyml/tabby,TabbyML,tabbyml.com,United States,San Francisco,2023,3.20,TypeScript,8134,10784,1.33,2023-06-30,2023-09-30
+333483116,dgtlmoon/changedetection.io,changedetection.io,changedetection.io,Canada,,2021,,Python,9489,12519,1.32,2023-06-30,2023-09-30
+629749002,bentoml/openllm,BentoML,bentoml.com,United States,San Francisco,2019,9.00,Python,4675,6163,1.32,2023-06-30,2023-09-30

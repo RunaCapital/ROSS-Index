@@ -1,0 +1,41 @@
+# Top trending open-source startups in Q2 2024
+
+1. 🇺🇸 **[Zed Industries](https://zed.dev) ([zed-industries/zed](https://github.com/zed-industries/zed), 32.2K stars, 32.2x growth).** Zed Industries is a designer of a multi-user code editor. Founded in 2021 in San Francisco. Raised $12.5M from Dylan Field, Rahul Vohra, Tom Preston-Werner, Spencer Kimball, Todd Goldberg, Redpoint, Root.
+
+2. 🇺🇸 **[All Hands AI](https://all-hands.dev) ([opendevin/opendevin](https://github.com/opendevin/opendevin), 27.2K stars, 27.2x growth).** Open-source autonomous AI software engineer. Founded in 2024 in Boston. Raised $0M.
+
+3. 🇺🇸 **[Maybe](https://maybe.co) ([maybe-finance/maybe](https://github.com/maybe-finance/maybe), 26.3K stars, 26.3x growth).** Financial planner and wealth management tool. Founded in 2021 in Birmingham. Raised $2.95M from OSS Capital.
+
+4. 🇨🇦 **[Puter](https://puter.com) ([heyputer/puter](https://github.com/heyputer/puter), 19.1K stars, 19.1x growth).** Privacy-first personal cloud to keep all your files, apps, and games in one secure place. Founded in 2022 in Vancouver. Raised $0M from Accel Starters, Nariman Jelveh, Torben Schulz, Goldsmith LLC, Shilling, Humberto Ayres Pereira, Sahil Lavingia, Hadi Jooybar.
+
+5. 🇳🇿 **[SubQuery](https://subquery.network) ([subquery/subql](https://github.com/subquery/subql), 18.4K stars, 18.5x growth).** Fast, flexible, and scalable web3 infrastructure to create decentralised products. Founded in 2021 in Auckland. Raised $13.14M from Hypersphere, The LAO, D1, Definitive, Digital Renaissance, P2P, Alliance DAO, Web3, Moonwhale, Kosmos, Digital Finance Group (DFG), SevenX, Digital Strategies, TRGC, CryptoViet, K300, Digital Currency Group, Wintermute, NGC, Skynet Trading, DOUBLETOP, Arrington XRP, gumi Cryptos (gCC), Stratos Technologies, AngelDAO, Kommune.one, Launch Code, Emurgo, IconPlus, Paribu.
+
+6. 🇮🇳 **[Stition AI](https://stition.ai) ([stitionai/devika](https://github.com/stitionai/devika), 17.7K stars, 17.7x growth).** Pre-agi security research company focused on AI “software” alignment. Founded in 2023 in Kerala. Raised $0.5M from Y Combinator.
+
+7. 🇸🇬 **[HPC-AI Tech](https://hpc-ai.com) ([hpcaitech/open-sora](https://github.com/hpcaitech/open-sora), 17.3K stars, 17.3x growth).** Platform to expands deep learning capabilities through parallel and distributed training, inference, and fine-tuning of large neural networks using high-performance computing. Founded in 2021 in Singapore. Raised $28M from BlueRun VenturesZhenFundSinovation Ventures.
+
+8. 🇺🇸 **[MyShell](https://myshell.ai) ([myshell-ai/openvoice](https://github.com/myshell-ai/openvoice), 16.5K stars, 16.0x growth).** MyShell is a decentralized and comprehensive platform for discovering, creating, and staking AI-native apps. Founded in 2023 in San Francisco. Raised $16.6M from SevenX, INCE, Folius, Incubate Fund, TSVC, Inception, HashKey, Signum, Nomad, Maven 11, Dragonfly, Casey Caruso, Delphi, Balaji Srinivasan, Santiago Roel Santos, OKX, Bankless, Nascent, Illia Polosukhin.
+
+9. 🇸🇬 **[Jan](https://jan.ai) ([janhq/jan](https://github.com/janhq/jan), 14.5K stars, 13.0x growth).** Jan is a productivity company. We build a cross-platform, local-first and AI native framework that can be used to build anything. Founded in 2023 in Singapore.
+
+10. 🇺🇸 **[Astral](https://astral.sh) ([astral-sh/uv](https://github.com/astral-sh/uv), 11.8K stars, 11.8x growth).** Next gen python tooling, starting with Ruff. Founded in 2023 in New York. Raised $4M from Accel, Caffeinated Capital, Guillermo Rauch, Solomon Hykes, David Cramer.
+
+11. 🇩🇪 **[GitButler](https://gitbutler.com) ([gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler), 10.6K stars, 10.6x growth).** Remodeling version control on a Git foundation. Founded in 2023 in Berlin.
+
+12. 🇧🇷 **[CrewAI](https://crewai.com) ([joaomdmoura/crewai](https://github.com/joaomdmoura/crewai), 10.9K stars, 10.0x growth).** Platform for creating and managing AI Agents for enterprises. Founded in 2023 in São Paulo.
+
+13. 🇰🇷 **[Kroma](https://kroma.network) ([kroma-network/tachyon](https://github.com/kroma-network/tachyon), 7.7K stars, 7.7x growth).** Developer-friendly, rollup-based Ethereum Layer 2 solution that offers low fees and scalability with EVM equivalence. Founded in 2021 in Seoul.
+
+14. 🇨🇳 **[Teable](https://teable.io) ([teableio/teable](https://github.com/teableio/teable), 7.4K stars, 7.4x growth).** Super fast, Real-time, Professional, Developer-friendly, No-code database. Founded in 2022 in Shenzhen.
+
+15. 🇺🇸 **[Orkes](https://orkes.io) ([conductor-oss/conductor](https://github.com/conductor-oss/conductor), 9.9K stars, 7.4x growth).** Microservices and workflow orchestration platform. Founded in 2021 in Cupertino. Raised $29.3M from Battery Ventures, Nexus Venture Partners and Vertex Ventures.
+
+16. 🇺🇸 **[Lepton AI](https://lepton.ai) ([leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton), 7.0K stars, 7.0x growth).** Scalable and efficient AI Application platform. Founded in 2023 in Cupertino.
+
+17. 🇺🇸 **[Vanna AI](https://vanna.ai) ([vanna-ai/vanna](https://github.com/vanna-ai/vanna), 6.3K stars, 6.3x growth).** AI-driven business intelligence assistant. Founded in 2023 in New York.
+
+18. 🇺🇸 **[Phidata](https://phidata.com) ([phidatahq/phidata](https://github.com/phidatahq/phidata), 5.7K stars, 5.7x growth).** AI Toolkit for Engineers. Founded in 2023 in New York.
+
+19. 🇺🇸 **[Daytona](https://daytona.io) ([daytonaio/daytona](https://github.com/daytonaio/daytona), 5.6K stars, 5.6x growth).** Daytona is the enterprise-grade GitHub Codespaces alternative for managing self-hosted, secure and standardized development environments. Founded in 2023 in New York. Raised $7M from 500 Emerging Europe, Ilya Lyamkin, Darkmode, Feross Aboukhadijeh, Silicon Gardens, Zach Lloyd, Charity Majors, Milin Desai, Moataz Soliman, Paul Copplestone, Luke Kanies, Prashanth Chandrasekar, 500 Global, Abhinav Asthana, Firestreak, Cassidy Williams, Tiny VC, Christian Bach, Shawn Wang, Upfront.
+
+20. 🇺🇸 **[Datalab](https://datalab.to) ([vikparuchuri/surya](https://github.com/vikparuchuri/surya), 5.5K stars, 5.5x growth).** AI For Document Intelligence. Founded in 2023 in Oakland.

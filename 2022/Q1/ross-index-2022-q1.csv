@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+398349583,builderio/partytown,Builder,builder.io,United States,San Francisco,2018,17.30,TypeScript,2871,6830,2.38,2021-12-31,2022-03-31
+352933140,tooljet/tooljet,ToolJet,tooljet.com,India,Bengaluru,2021,1.55,JavaScript,4326,8856,2.05,2021-12-31,2022-03-31
+351486934,gravitl/netmaker,Netmaker,netmaker.org,United States,Asheville,2021,0.13,Go,1795,3546,1.98,2021-12-31,2022-03-31
+231921809,supertokens/supertokens-core,SuperTokens,supertokens.com,India,Mumbai,2019,1.50,Java,2922,5343,1.83,2021-12-31,2022-03-31
+157402758,safing/portmaster,Safing,safing.io,Austria,Baden,2017,,Go,1329,2429,1.83,2021-12-31,2022-03-31
+234739976,medusajs/medusa,Medusa,medusajs.com,Denmark,Copenhagen,2021,0.95,JavaScript,5582,9833,1.76,2021-12-31,2022-03-31
+262862475,amplication/amplication,Amplication,amplication.com,Israel,Tel Aviv,2020,6.60,TypeScript,3623,6296,1.74,2021-12-31,2022-03-31
+391209033,charmbracelet/soft-serve,Charm,charm.sh,United States,New York,2019,3.00,Go,1079,1831,1.70,2021-12-31,2022-03-31
+299482335,withfig/autocomplete,Fig,fig.io,United States,San Francisco,2020,2.40,TypeScript,8477,14329,1.69,2021-12-31,2022-03-31
+365373172,growthbook/growthbook,GrowthBook,growthbook.io,United States,Palo Alto,2020,0.50,TypeScript,1781,2791,1.57,2021-12-31,2022-03-31
+261124045,slint-ui/slint,Slint,slint-ui.com,Germany,Berlin,2020,,Rust,2663,4115,1.55,2021-12-31,2022-03-31
+337414495,nhost/nhost,Nhost,nhost.io,Sweden,Stockholm,2019,3.11,TypeScript,1357,2081,1.53,2021-12-31,2022-03-31
+143328315,mindsdb/mindsdb,MindsDB,mindsdb.com,United States,Berkeley,2017,7.85,Python,4194,6384,1.52,2021-12-31,2022-03-31
+48769241,penpot/penpot,Penpot,penpot.app,Spain,Madrid,2019,,Clojure,6473,9832,1.52,2021-12-31,2022-03-31
+307489284,remix-run/remix,Remix,remix.run,United States,Salt Lake City,2020,3.00,TypeScript,9991,14876,1.49,2021-12-31,2022-03-31
+265911693,orchest/orchest,Orchest,orchest.io,Netherlands,Rotterdam,2020,4.20,Python,1704,2528,1.48,2021-12-31,2022-03-31
+265612440,coqui-ai/tts,Coqui,coqui.ai,Germany,Berlin,2020,,Python,2967,4394,1.48,2021-12-31,2022-03-31
+301793434,mattermost/focalboard,Mattermost,mattermost.com,United States,Palo Alto,2015,70.00,TypeScript,7099,10501,1.48,2021-12-31,2022-03-31
+434218673,prabhatsharma/zinc,Zinc,zinclabs.io,United States,San Francisco,2021,,Go,4527,6687,1.48,2021-12-31,2022-03-31
+285092252,serverless-stack/serverless-stack,Serverless Stack,serverless-stack.com,United States,San Francisco,2017,1.00,TypeScript,3993,5821,1.46,2021-12-31,2022-03-31

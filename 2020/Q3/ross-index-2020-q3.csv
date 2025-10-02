@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+160427405,plausible/analytics,Plausible,plausible.io,Estonia,Tartu,2018,,Elixir,1293,2927,2.26,2020-06-30,2020-09-30
+250213286,huggingface/datasets,Hugging Face,huggingface.co,France,Paris,2016,20.20,Python,1509,3399,2.25,2020-06-30,2020-09-30
+130879558,gitpod-io/gitpod,Gitpod,gitpod.io,Germany,Kiel,2019,3.00,TypeScript,1269,2490,1.96,2020-06-30,2020-09-30
+139199684,prefecthq/prefect,Prefect,prefect.io,United States,Washington,2018,2.50,Python,2839,5076,1.79,2020-06-30,2020-09-30
+52319036,passbolt/passbolt_api,Passbolt,passbolt.com,Luxembourg,Luxembourg,2016,0.74,PHP,1382,2166,1.57,2020-06-30,2020-09-30
+130688011,meilisearch/meilisearch,Meili,meilisearch.com,France,Paris,2018,1.76,Rust,6228,9243,1.48,2020-06-30,2020-09-30
+209153343,qawolf/qawolf,QAWolf,qawolf.com,United States,New York,2019,,TypeScript,1435,2117,1.48,2020-06-30,2020-09-30
+146459443,vesoft-inc/nebula,VESoft,nebula-graph.io,China,Hangzhou,2018,8.00,C++,3079,4487,1.46,2020-06-30,2020-09-30
+172704527,frontity/frontity,Frontity,frontity.org,Spain,Madrid,2015,1.64,TypeScript,1077,1522,1.41,2020-06-30,2020-09-30
+144624857,checkly/headless-recorder,Checkly,checklyhq.com,Germany,Berlin,2018,2.30,JavaScript,7128,9971,1.40,2020-06-30,2020-09-30
+192925833,prisma/prisma,Prisma,prisma.io,Germany,Berlin,2016,16.50,TypeScript,3989,5502,1.38,2020-06-30,2020-09-30
+135321861,ory/kratos,ORY,ory.sh,Germany,Munich,2015,,Go,1025,1359,1.33,2020-06-30,2020-09-30
+214587193,supabase/supabase,Supabase,supabase.io,Singapore,Singapore,2020,0.13,JavaScript,1757,2327,1.32,2020-06-30,2020-09-30
+112928128,relativty/relativty,Chaosix,chaosix.com,France,Paris,2020,,C++,3740,4917,1.32,2020-06-30,2020-09-30
+74213528,boostio/boostnote.next,BoostIO,boostio.co,Japan,Tokyo,2014,0.95,TypeScript,1416,1823,1.29,2020-06-30,2020-09-30
+178976529,bentoml/bentoml,BentoML,bentoml.ai,United States,San Francisco,2018,,Python,1356,1740,1.28,2020-06-30,2020-09-30
+157846876,framer/motion,Framer,framer.commotion,Netherlands,Amsterdam,2013,33.00,TypeScript,5661,7250,1.28,2020-06-30,2020-09-30
+132453438,unoplatform/uno,Uno Platform,platform.uno,Canada,Montreal,2011,,C#,2280,2899,1.27,2020-06-30,2020-09-30
+235901813,allegroai/trains,Alegro,allegro.ai,Israel,Tel Aviv,2016,11.00,Python,1432,1797,1.26,2020-06-30,2020-09-30
+191126383,posthog/posthog,PostHog,posthog.com,United Kingdom,London,2020,3.20,Python,2587,3246,1.26,2020-06-30,2020-09-30

@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+108761645,nocodb/nocodb,NocoDB,nocodb.com,United Kingdom,Poole,2021,,Vue,4266,13291,3.12,2021-03-30,2021-06-30
+240315046,jina-ai/jina,Jina AI,jina.ai,Germany,Berlin,2020,7.50,Python,2651,6931,2.61,2021-03-30,2021-06-30
+275993885,appsmithorg/appsmith,Appsmith,appsmith.com,India,Bengaluru,2019,,TypeScript,2064,4828,2.34,2021-03-30,2021-06-30
+214587193,supabase/supabase,Supabase,supabase.io,Singapore,Singapore,2020,6.13,TypeScript,6942,14204,2.05,2021-03-30,2021-06-30
+295992065,tailwindlabs/headlessui,Tailwind Labs,tailwindcss.com,Canada,Cambridge,2017,,TypeScript,5429,9691,1.79,2021-03-30,2021-06-30
+297436961,porter-dev/porter,Porter,getporter.dev,United States,New York,2020,0.13,Go,1467,2501,1.71,2021-03-30,2021-06-30
+301793434,mattermost/focalboard,Mattermost,mattermost.com,United States,Palo Alto,2015,70.00,HTML,2385,3980,1.67,2021-03-30,2021-06-30
+283046497,airbytehq/airbyte,Airbyte,airbyte.io,United States,San Francisco,2020,31.20,Java,2024,3329,1.65,2021-03-30,2021-06-30
+220186120,codenotary/immudb,CodeNotary,codenotary.com,United States,Houston,2018,7.00,Go,1776,2906,1.64,2021-03-30,2021-06-30
+180190854,appwrite/appwrite,Appwrite,appwrite.io,Israel,Tel Aviv,2019,,JavaScript,6111,9990,1.64,2021-03-30,2021-06-30
+192925833,prisma/prisma,Prisma,prisma.io,Germany,Berlin,2016,16.50,TypeScript,9022,14461,1.60,2021-03-30,2021-06-30
+169837628,spacecloud-io/space-cloud,Space Cloud,space-cloud.io,India,Mumbai,2017,,Go,1947,3041,1.56,2021-03-30,2021-06-30
+299712981,raycast/script-commands,Raycast,raycast.com,United Kingdom,London,2020,2.70,Shell,1228,1917,1.56,2021-03-30,2021-06-30
+108706901,uniswap/uniswap-interface,Uniswap,uniswap.org,United States,New York,2018,11.00,TypeScript,1330,2061,1.55,2021-03-30,2021-06-30
+128089774,storj/storj,Storj,storj.io,United States,Atlanta,2014,35.40,Go,1261,1915,1.52,2021-03-30,2021-06-30
+285092252,serverless-stack/serverless-stack,Serverless Stack,serverless-stack.com,United States,San Francisco,2017,,TypeScript,1329,2003,1.51,2021-03-30,2021-06-30
+19257422,questdb/questdb,QuestDB,questdb.io,United Kingdom,London,2019,2.30,Java,2706,3974,1.47,2021-03-30,2021-06-30
+156218203,mljar/mljar-supervised,MLJAR,mljar.com,Poland,Warsaw,2016,,Python,939,1364,1.45,2021-03-30,2021-06-30
+206138137,alphacep/vosk-api,Alpha Cephei,alphacephei.com,Russia,Moscow,2015,,C++,1330,1929,1.45,2021-03-30,2021-06-30
+190729906,budibase/budibase,Budibase,budibase.com,United Kingdom,Belfast,2020,0.39,JavaScript,2776,3986,1.44,2021-03-30,2021-06-30

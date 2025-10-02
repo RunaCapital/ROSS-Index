@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+684776900,higherorderco/bend,Higher Order Company,higherorderco.com,Brazil,Juiz de Fora,2023,,Rust,541,17031,17.03,2024-05-17,2024-08-15
+749126547,scrapegraphai/scrapegraph-ai,ScrapeGraphAI,scrapegraphai.com,Italy,Bergamo,2024,,Python,976,13530,13.53,2024-05-01,2024-07-30
+730534580,infiniflow/ragflow,InfiniFlow,infiniflow.com,China,Shanghai,2023,,Python,455,10560,10.56,2024-04-02,2024-07-01
+709538270,plandex-ai/plandex,Plandex AI,plandex.ai,United States,San Mateo,2024,,Go,689,9794,9.79,2024-04-04,2024-07-03
+762304524,composiohq/composio,Composio,composio.dev,United States,San Francisco,2023,,Python,948,8389,8.39,2024-07-02,2024-09-30
+787076358,mendableai/firecrawl,Mendable,mendable.ai,United States,Boston,2022,0.50,TypeScript,844,7952,7.95,2024-04-20,2024-07-19
+702796244,fishaudio/fish-speech,Fish Audio,fish.audio,United States,Santa Clara,2024,,Python,995,6919,6.92,2024-05-08,2024-08-06
+774716772,heyform/heyform,HeyForm,heyform.net,United States,Sheridan,2020,,TypeScript,991,5998,6.00,2024-04-02,2024-07-01
+784546140,jina-ai/reader,Jina AI,jina.ai,Germany,Berlin,2020,37.50,TypeScript,575,5741,5.74,2024-04-15,2024-07-14
+806192576,upsonic/gpt-computer-assistant,Upsonic,upsonic.co,Turkey,Istanbul,2023,,Python,259,5130,5.13,2024-06-03,2024-09-01
+810449821,adithya-s-k/omniparse,CognitiveLab,cognitivelab.in,India,Bengaluru,2023,,Python,768,5096,5.10,2024-07-02,2024-09-30
+782539945,miurla/morphic,Morphic,morphic.sh,Japan,Tokyo,2024,,TypeScript,255,4983,4.98,2024-04-09,2024-07-08
+674295265,docmost/docmost,Docmost,docmost.com,United Kingdom,London,2024,,TypeScript,129,4943,4.94,2024-06-30,2024-09-28
+768036550,gaianet-ai/gaianet-node,Gaia,gaianet.ai,United States,New York,2024,10.00,Shell,831,4759,4.76,2024-05-31,2024-08-29
+802434683,codium-ai/cover-agent,Qodo,qodo.ai,Israel,Tel Aviv,2022,50.60,Python,726,4122,4.12,2024-05-22,2024-08-20
+488641606,phidatahq/phidata,Phidata,phidata.com,United States,New York,2023,5.40,Python,2887,10626,3.68,2024-04-17,2024-07-16
+764287615,supermemoryai/supermemory,Supermemory,supermemory.ai,India,Mumbai,2024,,TypeScript,1,3309,3.31,2024-04-15,2024-07-14
+720209383,capsoftware/cap,Cap,cap.so,United Kingdom,Liverpool,2023,,TypeScript,1018,3364,3.31,2024-04-02,2024-07-01
+799645136,basedhardware/openglass,Omi AI,omi.me,United States,San Francisco,2024,0.70,C,791,3158,3.16,2024-05-14,2024-08-12
+671064065,truefoundry/cognita,TrueFoundry,truefoundry.com,United States,San Francisco,2021,2.30,Python,997,3041,3.04,2024-04-30,2024-07-29

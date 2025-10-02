@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+476427476,mobile-dev-inc/maestro,mobile.dev,mobile.dev,United States,San Francisco,2020,3.00,Kotlin,1365,2895,2.12,2022-09-30,2022-12-31
+331293626,refinedev/refine,refine,refine.dev,Turkey,Istanbul,2022,1.00,TypeScript,3110,6566,2.11,2022-09-30,2022-12-31
+359419233,kubeshark/kubeshark,Kubeshark,kubeshark.co,United States,San Francisco,2022,,Go,3960,7816,1.97,2022-09-30,2022-12-31
+305234033,hop-protocol/hop,Hop,hop.exchange,United States,Los Angeles,2019,1.10,TypeScript,1168,2005,1.72,2022-09-30,2022-12-31
+493014338,mage-ai/mage-ai,Mage,mage.ai,United States,San Francisco,2020,6.30,Python,1530,2420,1.58,2022-09-30,2022-12-31
+400215964,novuhq/novu,Novu,novu.co,Israel,Tel Aviv,2021,6.60,TypeScript,10203,16085,1.58,2022-09-30,2022-12-31
+527612250,coroot/coroot,Coroot,coroot.com,Turkey,Antalya,2021,,Go,1297,1991,1.54,2022-09-30,2022-12-31
+157402758,safing/portmaster,Safing,safing.io,Austria,Baden,2017,,Go,4024,5958,1.48,2022-09-30,2022-12-31
+284134871,flipperdevices/flipperzero-firmware,Flipper Devices,flipperdevices.com,Russia,Moscow,2020,4.80,C,3268,4829,1.48,2022-09-30,2022-12-31
+422274596,hpcaitech/colossalai,HPC-AI Tech,hpcaitech.com,Singapore,Singapore,2021,6.00,Python,4996,7075,1.42,2022-09-30,2022-12-31
+254418044,tigerbeetledb/tigerbeetle,TigerBeetle,tigerbeetle.com,South Africa,Cape Town,2020,6.40,Zig,1125,1585,1.41,2022-09-30,2022-12-31
+368917877,builderio/qwik,Builder,builder.io,United States,San Francisco,2018,17.30,TypeScript,10268,14134,1.38,2022-09-30,2022-12-31
+299354666,rustdesk/rustdesk-server,RustDesk,rustdesk.com,Singapore,Singapore,2020,,Rust,2224,3028,1.36,2022-09-30,2022-12-31
+464827989,triggerdotdev/jsonhero-web,Trigger.dev,trigger.dev,United Kingdom,London,2022,,TypeScript,5277,7154,1.36,2022-09-30,2022-12-31
+349372179,lightdash/lightdash,Lightdash,lightdash.com,United Kingdom,London,2020,10.80,TypeScript,1457,1967,1.35,2022-09-30,2022-12-31
+268163609,qdrant/qdrant,Qdrant,qdrant.tech,Germany,Berlin,2021,2.30,Rust,2627,3538,1.35,2022-09-30,2022-12-31
+454467716,metalbear-co/mirrord,MetalBear,metalbear.co,Israel,Tel Aviv,2022,1.00,Rust,1593,2117,1.33,2022-09-30,2022-12-31
+495863734,readysettech/readyset,ReadySet,readyset.io,United States,Los Angeles,2020,28.90,Rust,1290,1706,1.32,2022-09-30,2022-12-31
+384219990,warpdotdev/warp,Warp,warp.dev,United States,New York,2020,23.00,,7939,10348,1.30,2022-09-30,2022-12-31
+247714750,zitadel/zitadel,Zitadel,zitadel.com,Switzerland,St. Gallen,2019,2.50,Go,1506,1954,1.30,2022-09-30,2022-12-31

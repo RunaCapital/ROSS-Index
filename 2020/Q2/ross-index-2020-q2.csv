@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+192925833,prisma/prisma,Prisma,prisma.io,Germany,Berlin,2016,16.5,TypeScript,2337,3923,1.68,2020-03-30,2020-06-30
+130688011,meilisearch/meilisearch,Meili,meilisearch.com,France,Paris,2018,,Rust,3707,6101,1.65,2020-03-30,2020-06-30
+167304464,cortexlabs/cortex,Cortex Labs,cortex.dev,United States,"Oakland, CA",2018,,Go,3770,5423,1.44,2020-03-30,2020-06-30
+157846876,framer/motion,Framer,framer.com,Netherlands,Amsterdam,2013,33,TypeScript,4313,5589,1.30,2020-03-30,2020-06-30
+204086862,streamlit/streamlit,Streamlit,streamlit.io,United States,San Francisco,2018,27,Python,7293,9420,1.29,2020-03-30,2020-06-30
+155220641,huggingface/transformers,Hugging Face,huggingface.co,France,Paris,2016,20.2,Python,24179,29676,1.23,2020-03-30,2020-06-30
+72477752,pulumi/pulumi,Pulumi,pulumi.com,United States,Seattle,2017,20,Go,4891,5936,1.21,2020-03-30,2020-06-30
+75277003,thingsboard/thingsboard,ThingsBoard,thingsboard.io,Ukraine,Kyiv,2016,,Java,5276,6371,1.21,2020-03-30,2020-06-30
+111583593,genymobile/scrcpy,Genymobile,genymobile.com,France,Paris,2011,9.7,C,27326,32730,1.20,2020-03-30,2020-06-30
+146327667,timberio/vector,Timber,timber.io,United States,New York,2016,5.8,Rust,3646,4312,1.18,2020-03-30,2020-06-30
+193215554,n8n-io/n8n,N8N,n8n.io,Germany,Berlin,2019,1.5,TypeScript,6899,8128,1.18,2020-03-30,2020-06-30
+8162715,mirumee/saleor,Saleor,saleor.io,Poland,Wroclaw,2019,,Python,6989,8225,1.18,2020-03-30,2020-06-30
+43441403,strapi/strapi,Strapi,strapi.io,France,Paris,2016,14,TypeScript,22838,26746,1.17,2020-03-30,2020-06-30
+110178895,brave/brave-browser,Brave,brave.com,United States,San Francisco,2015,42,JavaScript,5591,6535,1.17,2020-03-30,2020-06-30
+188660663,corentinj/real-time-voice-cloning,Resemble AI,resemble.ai,Canada,Toronto,2018,2,Python,15695,18180,1.16,2020-03-30,2020-06-30
+75505125,abpframework/abp,Volosoft,volosoft.com,Turkey,Istanbul,2016,,C#,3385,3914,1.16,2020-03-30,2020-06-30
+39487546,vector-im/riot-web,Riot IM,riot.im,United Kingdom,London,2017,18.1,TypeScript,4469,5112,1.14,2020-03-30,2020-06-30
+83878269,iterative/dvc,Iterative,iterative.ai,United States,San Francisco,2018,3.9,Python,4777,5384,1.13,2020-03-30,2020-06-30
+70908208,rasahq/rasa,Rasa,rasa.com,Germany,Berlin,2016,40.1,Python,8004,8975,1.12,2020-03-30,2020-06-30
+202291859,chatwoot/chatwoot,Chatwoot,chatwoot.com,India,"Bengaluru, India",2017,,Ruby,3767,4226,1.12,2020-03-30,2020-06-30

@@ -1,0 +1,41 @@
+# Top trending open-source startups in Q1 2022
+
+1. 🇺🇸 **[Builder](https://www.builder.io/) (builderio/partytown, 6.8K stars, 3104% AGR).** Low-code platform for building frontend (headless CMS). Founded in 2018 in San Francisco and raised $17.3M from Greylock, Finn Capital Partners, Imaginary Ventures.
+
+2. 🇮🇳 **[ToolJet](https://tooljet.com/) (tooljet/tooljet, 8.9K stars, 1656% AGR).** Low-code framework used to build and deploy custom internal tools. Founded in 2021 in Bengaluru and raised $1.6M from Nexus Venture Partners, Better Capital.
+
+3. 🇺🇸 **[Netmaker](https://www.netmaker.org/) (gravitl/netmaker, 3.5K stars, 1422% AGR).** Automated WireGuard networks for distributed systems and Kubernetes. Founded in 2021 in Asheville and raised from Y Combinator.
+
+4. 🇮🇳 **[SuperTokens](https://supertokens.com/) (supertokens/supertokens-core, 5.3K stars, 1018% AGR).** Open source alternative to Auth0 / AWS Cognito / Firebase Auth. Founded in 2019 in Mumbai and raised $1.5M from Y Combinator.
+
+5. 🇦🇹 **[Safing](https://safing.io/) (safing/portmaster, 2.4K stars, 1016% AGR).** Application for monitoring all your network activity. Founded in 2017 in Baden and has no known external funding.
+
+6. 🇩🇰 **[Medusa](https://medusajs.com/) (medusajs/medusa, 9.8K stars, 863% AGR).** The Open Source Shopify alternative. Founded in 2021 in Copenhagen and raised $1M from Seedcamp.
+
+7. 🇮🇱 **[Amplication](https://amplication.com/) (amplication/amplication, 6.3K stars, 812% AGR).** Open Source Low-Code Application Development Platform. Founded in 2020 in Tel Aviv and raised $6.6M from Vertex Ventures Israel, Velocity Ventures, Norwest Venture Partners.
+
+8. 🇺🇸 **[Charm](https://charm.sh/) (charmbracelet/soft-serve, 1.8K stars, 729% AGR).** CLI-centric cloud with end-to-end encryption. Founded in 2019 in New York and raised $3M from Cavalry Ventures, Fuel Capital, Betaworks Ventures.
+
+9. 🇺🇸 **[Fig](https://fig.io/) (withfig/autocomplete, 14.3K stars, 716% AGR).** Autocomplete for terminal. Founded in 2020 in San Francisco and raised $2.4M from General Catalyst, SV Angel, Y Combinator.
+
+10. 🇺🇸 **[GrowthBook](https://www.growthbook.io/) (growthbook/growthbook, 2.8K stars, 503% AGR).** Open source feature flagging and A/B testing. Founded in 2020 in Palo Alto and raised from Y Combinator, Nexus Venture Partners.
+
+11. 🇩🇪 **[Slint](https://slint-ui.com/) (slint-ui/slint, 4.1K stars, 470% AGR).** It is a toolkit to efficiently develop fluid graphical user interfaces for any display. Founded in 2020 in Berlin and has no known external funding.
+
+12. 🇸🇪 **[Nhost](https://nhost.io/) (nhost/nhost, 2.1K stars, 453% AGR).** Full-fledged serverless backend for web and mobile applications. Founded in 2019 in Stockholm and raised $3.1M from Antler, Nauta Capital.
+
+13. 🇺🇸 **[MindsDB](https://mindsdb.com/) (mindsdb/mindsdb, 6.4K stars, 437% AGR).** Open Source In-SQL Machine Learning. Founded in 2017 in Berkeley and raised $7.8M from Speedinvest, OSS Capital, OpenOcean.
+
+14. 🇪🇸 **[Penpot](https://penpot.app/) (penpot/penpot, 9.8K stars, 432% AGR).** Design and prototyping platform meant for cross-domain teams. Founded in 2019 in Madrid and has no known external funding.
+
+15. 🇺🇸 **[Remix](https://remix.run/) (remix-run/remix, 14.9K stars, 391% AGR).** Modern web framework and toolset for React.js. Founded in 2020 in Salt Lake City and raised $3M from OSS Capital, etc.
+
+16. 🇳🇱 **[Orchest](https://www.orchest.io/) (orchest/orchest, 2.5K stars, 385% AGR).** Low-code platform for data pipelines. Founded in 2020 in Rotterdam and raised $4.2M from Gradient Ventures, Basis Set Ventures, Seedcamp, etc.
+
+17. 🇩🇪 **[Coqui](https://coqui.ai/) (coqui-ai/tts, 4.4K stars, 381% AGR).** Speech-to-text and text-to-speech based on deep learning. Founded in 2020 in Berlin and has no known external funding.
+
+18. 🇺🇸 **[Mattermost](https://mattermost.com/) (mattermost/focalboard, 10.5K stars, 379% AGR).** Collaboration platform (alternative to Slack). Founded in 2015 in Palo Alto and raised $70M from S28, YC, Redpoint, Battery Ventures.
+
+19. 🇺🇸 **[Zinc](https://www.zinclabs.io/) (prabhatsharma/zinc, 6.7K stars, 376% AGR).** A lightweight alternative to ElasticSearch. Founded in 2021 in San Francisco and has no known external funding.
+
+20. 🇺🇸 **[Serverless Stack](https://serverless-stack.com/) (serverless-stack/serverless-stack, 5.8K stars, 351% AGR).** Developer of SST framework for serverless apps. Founded in 2017 in San Francisco and raised $1M from Greylock, SV Angel, YC.

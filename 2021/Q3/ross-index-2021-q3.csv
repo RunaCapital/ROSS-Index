@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+310456670,builderio/mitosis,Builder,builder.io,United States,San Francisco,2018,3.30,TypeScript,1173,2379,2.03,2021-06-30,2021-09-30
+246903803,earthly/earthly,Earthly,earthly.dev,United States,San Francisco,2020,2.10,Go,2505,4972,1.99,2021-06-30,2021-09-30
+299482335,withfig/autocomplete,Fig,fig.io,United States,San Francisco,2020,2.40,TypeScript,3393,5895,1.74,2021-06-30,2021-09-30
+240315046,jina-ai/jina,Jina AI,jina.ai,Germany,Berlin,2020,7.50,Python,6685,11133,1.67,2021-06-30,2021-09-30
+362806180,openreplay/openreplay,OpenReplay,openreplay.com,United States,San Francisco,2018,1.50,JavaScript,1261,2094,1.66,2021-06-30,2021-09-30
+371564104,megaease/easegress,Megaease,megaease.com,China,Beijing,2017,,Go,2388,3878,1.62,2021-06-30,2021-09-30
+285092252,serverless-stack/serverless-stack,Serverless Stack,serverless-stack.com,United States,San Francisco,2017,1.00,TypeScript,1912,2991,1.56,2021-06-30,2021-09-30
+273499522,radix-ui/primitives,Modulz,modulz.app,Ireland,Dublin,2019,5.40,TypeScript,996,1546,1.55,2021-06-30,2021-09-30
+350360184,calendso/calendso,Calendso,cal.com,United Kingdom,London,2020,,TypeScript,5170,8022,1.55,2021-06-30,2021-09-30
+265612440,coqui-ai/tts,Coqui,coqui.ai,Germany,Berlin,2020,,Jupyter Notebook,1754,2675,1.53,2021-06-30,2021-09-30
+214587193,supabase/supabase,Supabase,supabase.io,Singapore,Singapore,2020,36.10,TypeScript,13347,19544,1.46,2021-06-30,2021-09-30
+108761645,nocodb/nocodb,NocoDB,nocodb.com,United Kingdom,Poole,2021,,Vue,12489,18283,1.46,2021-06-30,2021-09-30
+79317191,typesense/typesense,Typesense,typesense.org,United States,Los Angeles,2016,,C++,5552,7985,1.44,2021-06-30,2021-09-30
+261283923,osohq/oso,Oso,osohq.com,United States,New York,2018,10.90,Rust,1062,1524,1.44,2021-06-30,2021-09-30
+265911693,orchest/orchest,Orchest,orchest.io,Netherlands,Rotterdam,2020,3.50,Python,1088,1558,1.43,2021-06-30,2021-09-30
+264818686,ultralytics/yolov5,Ultralytics,ultralytics.com,United States,Los Angeles,2014,,Python,11771,16725,1.42,2021-06-30,2021-09-30
+260037952,uniswap/v3-core,Uniswap Labs,uniswap.org,United States,New York,2018,11.00,TypeScript,1019,1447,1.42,2021-06-30,2021-09-30
+299712981,raycast/script-commands,Raycast,raycast.com,United Kingdom,London,2020,2.70,Shell,1785,2533,1.42,2021-06-30,2021-09-30
+129558668,nomiclabs/hardhat,Nomic Labs,nomiclabs.io,Argentina,Buenos Aires,2018,,TypeScript,1090,1546,1.42,2021-06-30,2021-09-30
+55072677,semi-technologies/weaviate,SeMI Technologies,semi.technology,Netherlands,Amsterdam,2019,,Go,1253,1771,1.41,2021-06-30,2021-09-30

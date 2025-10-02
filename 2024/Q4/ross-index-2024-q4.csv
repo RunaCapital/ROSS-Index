@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+787637064,shardeum/shardeum,Shardeum,shardeum.org,Switzerland,Zug,2022,23.57,TypeScript,1288,20871,16.20,2024-08-10,2024-11-08
+783512367,rssnext/follow,RSSNext,follow.is,Singapore,Singapore,2024,,TypeScript,1019,14464,14.19,2024-07-28,2024-10-26
+836642963,black-forest-labs/flux,Black Forest Labs,blackforestlabs.ai,Germany,Freiburg,2024,30.20,Python,1377,15452,11.22,2024-08-02,2024-10-31
+838212912,chartdb/chartdb,ChartDB,chartdb.io,Israel,Tel Aviv,2024,,TypeScript,850,10116,10.12,2024-08-27,2024-11-25
+817326197,mediar-ai/screenpipe,ScreenPipe,screenpi.pe,United States,San Francisco,2024,,TypeScript,1095,10022,9.15,2024-08-27,2024-11-25
+855528273,voideditor/void,Void,voideditor.com,United States,San Francisco,2024,0.50,TypeScript,223,8530,8.53,2024-09-17,2024-12-16
+819554665,exo-explore/exo,EXO Labs,exolabs.net,United Kingdom,Oxford,2024,,Python,1197,10206,8.53,2024-07-17,2024-10-15
+824874689,cline/cline,Cline,cline.bot,United States,San Francisco,2024,,TypeScript,968,8517,8.52,2024-07-22,2024-10-20
+762304524,composiohq/composio,Composio,composio.dev,United States,San Francisco,2023,4.00,Python,1169,8394,7.18,2024-07-03,2024-10-01
+840286946,huanshere/videolingo,VideoLingo,videolingo.io,Canada,Ontario,2024,,Python,838,7106,7.11,2024-08-27,2024-11-25
+844738531,instantdb/instant,Instant,instantdb.com,United States,New York,2022,3.40,Clojure,850,6653,6.65,2024-08-23,2024-11-21
+531220682,dicedb/dice,DiceDB,dicedb.io,India,Bengaluru,2022,,Go,964,6504,6.50,2024-07-25,2024-10-23
+803014189,better-auth/better-auth,Better Auth,better-auth.com,Ethiopia,Addis Ababa,2024,,TypeScript,977,5559,5.56,2024-10-01,2024-12-30
+831872524,getomni-ai/zerox,OmniAI,getomni.ai,United States,San Francisco,2024,3.70,Python,1252,6688,5.34,2024-08-28,2024-11-26
+850848008,meltylabs/melty,Melty,melty.sh,United States,San Francisco,2024,0.50,TypeScript,893,5180,5.18,2024-09-05,2024-12-04
+843570824,nexaai/nexa-sdk,Nexa AI,nexa.ai,United States,San Jose,2023,16.50,Python,784,5096,5.10,2024-09-22,2024-12-21
+486810025,teaxyz/white-paper,Tea,tea.xyz,Puerto Rico,San Juan,2021,16.90,Makefile,891,4584,4.58,2024-08-01,2024-10-30
+702796244,fishaudio/fish-speech,Hanabi AI,fish.audio,United States,San Francisco,2023,,Python,2893,12711,4.39,2024-07-03,2024-10-01
+707441527,livekit/agents,LiveKit,livekit.io,United States,San Jose,2021,36.02,Python,989,4148,4.15,2024-09-10,2024-12-09
+810449821,adithya-s-k/omniparse,CognitiveLab,cognitivelab.in,India,Bengaluru,2023,,Python,1241,5111,4.12,2024-07-03,2024-10-01

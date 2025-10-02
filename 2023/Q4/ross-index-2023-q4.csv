@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+542284380,usebruno/bruno,Bruno,usebruno.com,India,Bangalore,2021,,JavaScript,1069,10410,9.74,2023-09-30,2023-12-31
+679237742,pythagora-io/gpt-pilot,Pythagora,pythagora.io,Croatia,Zagreb,2023,,Python,4530,18767,4.14,2023-09-30,2023-12-31
+658928958,jmorganca/ollama,Ollama,ollama.ai,Canada,Toronto,2023,,Go,7761,28949,3.73,2023-09-30,2023-12-31
+649170660,mintplex-labs/anything-llm,Mintplex Labs,mintplexlabs.com,United States,Los Angeles,2022,,JavaScript,2414,6446,2.67,2023-09-30,2023-12-31
+237222619,wasp-lang/wasp,Wasp,wasp-lang.dev,Croatia,Zagreb,2020,1.50,TypeScript,4150,8823,2.13,2023-09-30,2023-12-31
+596516907,arc53/docsgpt,Arc53,arc53.com,United Kingdom,Edinburgh,2019,,Python,6583,13580,2.06,2023-09-30,2023-12-31
+458094748,omnivore-app/omnivore,Omnivore,omnivore.app,United States,San Francisco,2022,,HTML,3837,7134,1.86,2023-09-30,2023-12-31
+572984571,twentyhq/twenty,Twenty,twenty.com,United States,San Francisco,2023,,TypeScript,3709,6755,1.82,2023-09-30,2023-12-31
+605673387,labring/fastgpt,Labring,fastgpt.in,China,Hangzhou,2022,,TypeScript,4792,7936,1.66,2023-09-30,2023-12-31
+573661753,activepieces/activepieces,Activepieces,activepieces.com,United States,San Francisco,2022,1.55,TypeScript,3568,5661,1.59,2023-09-30,2023-12-31
+571613891,roboflow/supervision,Roboflow,roboflow.com,United States,Des Moines,2019,22.24,Python,5422,8311,1.53,2023-09-30,2023-12-31
+626805178,langgenius/dify,LangGenius,dify.ai,United States,New York,2023,,Python,8717,13313,1.53,2023-09-30,2023-12-31
+633262635,danswer-ai/danswer,Danswer,danswer.dev,United States,San Francisco,2023,,Python,3938,5811,1.48,2023-09-30,2023-12-31
+515368123,tracel-ai/burn,Tracel AI,tracel.ai,Canada,Quebec,2023,,Rust,3670,5380,1.47,2023-09-30,2023-12-31
+257913595,voxel51/fiftyone,Voxel51,voxel51.com,United States,Ann Arbor,2016,13.75,Python,4316,6201,1.44,2023-09-30,2023-12-31
+365739812,tldraw/tldraw,Tldraw,tldraw.com,United Kingdom,London,2021,2.70,TypeScript,21158,29443,1.39,2023-09-30,2023-12-31
+266033395,gristlabs/grist-core,Grist Labs,getgrist.com,United States,New York,2014,,TypeScript,4170,5775,1.39,2023-09-30,2023-12-31
+572570113,triggerdotdev/trigger.dev,Trigger.dev,trigger.dev,United Kingdom,London,2022,3.00,TypeScript,4572,6311,1.38,2023-09-30,2023-12-31
+289423198,snapshot-labs/snapshot,Snapshot Labs,snapshot.org,Thailand,,2021,4.00,Vue,3881,5335,1.38,2023-09-30,2023-12-31
+644686905,continuedev/continue,Continue,continue.dev,United States,San Francisco,2023,2.10,Python,4252,5824,1.37,2023-09-30,2023-12-31

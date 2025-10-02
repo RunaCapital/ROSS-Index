@@ -1,0 +1,41 @@
+# Top trending open-source startups in Q3 2021
+
+1. 🇺🇸 **[Builder](https://www.builder.io/) (builderio/mitosis, 2.4K stars, 1593% AGR).** Low-code platform for building frontend (headless CMS). Founded in 2018 in San Francisco and raised $3.3M from Greylock, etc.
+
+2. 🇺🇸 **[Earthly](https://earthly.dev/) (earthly/earthly, 5K stars, 1451% AGR).** Build automation system allowing to create Docker images, output artefacts or run tests. Founded in 2020 in San Francisco and raised $2.1M from 468 Capital, Bessemer Venture Partners, Uncorrelated Ventures, etc.
+
+3. 🇺🇸 **[Fig](https://fig.io/) (withfig/autocomplete, 5.9K stars, 811% AGR).** Autocomplete for the terminal. Founded in 2020 in San Francisco and raised $2.4M from General Catalyst, SV Angel and YC.
+
+4. 🇩🇪 **[Jina AI](https://jina.ai/) (jina-ai/jina, 11.1K stars, 669% AGR).** Neural search ecosystem for businesses and developers. Founded in 2020 in Berlin and raised $7.5M from GGV Capital, SAP.io and Yunqi Partners.
+
+5. 🇺🇸 **[OpenReplay](https://openreplay.com/) (openreplay/openreplay, 2.1K stars, 660% AGR).** Open source session replay tool. Founded in 2018 in Paris and raised $1.5M from Kima Ventures and YC.
+
+6. 🇨🇳 **[Megaease](https://megaease.com/) (megaease/easegress, 3.9K stars, 595% AGR).** Cloud service orchestration platform. Founded in 2017 in Beijing and has no known external funding.
+
+7. 🇺🇸 **[Serverless Stack](https://serverless-stack.com/) (serverless-stack/serverless-stack, 3K stars, 499% AGR).** The developer of SST framework for serverless apps. Founded in 2017 in San Francisco and raised unknown funding from Y Combinator, SV Angel, Greylock, etc.
+
+8. 🇮🇪 **[Modulz](https://www.modulz.app/) (radix-ui/primitives, 1.5K stars, 481% AGR).** Code-based tool for designing and prototyping. Founded in 2019 in Dublin and raised $5.4M from LocalGlobe, Frontline, Tiny VC.
+
+9. 🇬🇧 **[Calendso](https://cal.com/) (calendso/calendso, 8K stars, 479% AGR).** Scheduling infrastructure (open-source alternative to Calendly). Founded in 2020 in London and has no known external funding.
+
+10. 🇩🇪 **[Coqui](https://coqui.ai/) (coqui-ai/tts, 2.7K stars, 441% AGR).** Speech-to-text and text-to-speech based on deep learning. Founded in 2020 in Berlin and has no known external funding.
+
+11. 🇸🇬 **[Supabase](https://supabase.io) (supabase/supabase, 19.5K stars, 360% AGR).** RESTful APIs for PostgreSQL without a single line of code (open-source alternative to Firebase). Founded in 2020 in Singapore and raised $36M from Coatue and Y Combinator.
+
+12. 🇬🇧 **[NocoDB](https://www.nocodb.com/) (nocodb/nocodb, 18.3K stars, 359% AGR).** No-code database tool (alternative to Airtable). Founded in 2021 in Poole (UK) and has no known external funding.
+
+13. 🇺🇸 **[Typesense](https://typesense.org/) (typesense/typesense, 8K stars, 328% AGR).** Fast, typo tolerant, fuzzy search engine (open-source alternative to Algolia). Founded in 2016 in Los Angeles and has no known external funding.
+
+14. 🇺🇸 **[Oso](https://www.osohq.com/) (osohq/oso, 1.5K stars, 324% AGR).** Framework for authorization. Founded in 2018 in New York and raised $10.9M from Sequoia, SV Angel, Highland Capital Partners, Company Ventures, etc.
+
+15. 🇳🇱 **[Orchest](https://www.orchest.io/) (orchest/orchest, 1.6K stars, 321% AGR).** Low-code platform for data pipelines. Founded in 2020 in Rotterdam and raised $3.5M from Gradient Ventures, Basis Set Ventures, Seedcamp, etc.
+
+16. 🇺🇸 **[Ultralytics](https://ultralytics.com/) (ultralytics/yolov5, 16.7K stars, 308% AGR).** Low-code computer vision platform. Founded in 2014 in Los Angeles and has no known external funding.
+
+17. 🇺🇸 **[Uniswap Labs](https://uniswap.org/) (uniswap/v3-core, 1.4K stars, 306% AGR).** Decentralised trading Ethereum-based protocol. Founded in 2018 in New York and raised $11M from A16Z, USV, SV Angel and Version One.
+
+18. 🇬🇧 **[Raycast](https://raycast.com/) (raycast/script-commands, 2.5K stars, 306% AGR).** CLI-based developer productivity tool. Founded in 2020 in London and raised $2.7M from Accel, Chapter One and YC.
+
+19. 🇦🇷 **[Nomic Labs](https://nomiclabs.io/) (nomiclabs/hardhat, 1.5K stars, 305% AGR).** Platform for development on Ethereum. Founded in 2018 in Buenos Aires and has no known external funding.
+
+20. 🇳🇱 **[SeMI Technologies](https://www.semi.technology/) (semi-technologies/weaviate, 1.8K stars, 299% AGR).** ML-based vector search engine. Founded in 2019 in Amsterdam and raised unknown funding from Zetta Venture Partners and ING Ventures

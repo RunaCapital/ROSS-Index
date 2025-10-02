@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+340547520,zed-industries/zed,Zed Industries,zed.dev,United States,San Francisco,2021,12.50,Rust,3,32198,32.20,2024-01-24,2024-04-23
+771302083,opendevin/opendevin,All Hands AI,all-hands.dev,United States,Boston,2024,,Python,956,27213,27.21,2024-03-15,2024-06-13
+737898780,maybe-finance/maybe,Maybe,maybe.co,United States,Birmingham,2021,,Ruby,394,26311,26.31,2024-01-12,2024-04-11
+766341786,heyputer/puter,Puter,puter.com,Canada,Vancouver,2022,,JavaScript,865,19127,19.13,2024-03-05,2024-06-03
+321530801,subquery/subql,SubQuery,subquery.network,New Zealand,Auckland,2021,13.14,TypeScript,480,18484,18.48,2024-01-09,2024-04-08
+775250190,stitionai/devika,Stition AI,stition.ai,India,Kerala,2023,0.50,Python,753,17712,17.71,2024-03-22,2024-06-20
+760231710,hpcaitech/open-sora,HPC-AI Tech,hpc-ai.com,Singapore,Singapore,2021,28.00,Python,888,17307,17.31,2024-03-07,2024-06-05
+725089041,myshell-ai/openvoice,MyShell,myshell.ai,United States,San Francisco,2023,16.60,Python,1030,16465,15.99,2024-01-02,2024-04-01
+679506386,janhq/jan,Jan,jan.ai,Singapore,Singapore,2023,,TypeScript,1114,14508,13.02,2024-01-02,2024-04-01
+699532645,astral-sh/uv,Astral,astral.sh,United States,New York,2023,4.00,Rust,0,11777,11.78,2024-02-15,2024-05-15
+595662105,gitbutlerapp/gitbutler,GitButler,gitbutler.com,Germany,Berlin,2023,,TypeScript,872,10578,10.58,2024-02-13,2024-05-13
+710601088,joaomdmoura/crewai,CrewAI,crewai.com,Brazil,São Paulo,2023,,Python,1091,10909,10.00,2024-01-02,2024-04-01
+659205972,kroma-network/tachyon,Kroma,kroma.network,South Korea,Seoul,2021,,C++,989,7727,7.73,2024-01-07,2024-04-06
+560299175,teableio/teable,Teable,teable.io,China,Shenzhen,2022,,TypeScript,693,7434,7.43,2024-03-12,2024-06-10
+728981719,conductor-oss/conductor,Orkes,orkes.io,United States,Cupertino,2021,29.30,Java,1343,9901,7.37,2024-01-11,2024-04-10
+747030811,leptonai/search_with_lepton,Lepton AI,lepton.ai,United States,Cupertino,2023,,TypeScript,726,6956,6.96,2024-01-28,2024-04-27
+640317662,vanna-ai/vanna,Vanna AI,vanna.ai,United States,New York,2023,,Python,532,6267,6.27,2024-01-14,2024-04-13
+488641606,phidatahq/phidata,Phidata,phidata.com,United States,New York,2023,,Python,909,5705,5.71,2024-02-11,2024-05-11
+753490180,daytonaio/daytona,Daytona,daytona.io,United States,New York,2023,7.00,Go,5,5606,5.61,2024-03-06,2024-06-04
+741297064,vikparuchuri/surya,Datalab,datalab.to,United States,Oakland,2023,,Python,770,5502,5.50,2024-01-14,2024-04-13

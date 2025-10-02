@@ -1,0 +1,41 @@
+# Top trending open-source startups in Q4 2024
+
+1. 🇨🇭 **[Shardeum](https://shardeum.org) ([shardeum/shardeum](https://github.com/shardeum/shardeum), 20.9K stars, 16.2x growth)** is an EVM-based, linearly scalable smart contract platform. Founded in 2022 in Zug, Switzerland. Raised $24M from Amber Group, Galxe, J17 Capital, JSquare, TRGC, etc.
+
+2. 🇸🇬 **[RSSNext](https://follow.is) ([rssnext/follow](https://github.com/rssnext/follow), 14.5K stars, 14.2x growth)** develops [Follow.is](https://follow.is/) that organizes content into one timeline, providing users with a customized noise-free information hub. Founded in 2024 in Singapore.
+
+3. 🇩🇪 **[Black Forest Labs](https://blackforestlabs.ai) ([black-forest-labs/flux](https://github.com/black-forest-labs/flux), 15.5K stars, 11.2x growth)** develops advanced generative AI models for images and videos. Founded in 2024 in Freiburg im Breisgau, Germany. Raised $30M from A16Z, General Catalyst, Mätch VC, etc.
+
+4. 🇮🇱 **[ChartDB](https://chartdb.io) ([chartdb/chartdb](https://github.com/chartdb/chartdb), 10.1K stars, 10.1x growth)** is a visualization tool for databases, enabling their diagramming via a single query. Founded in 2024 in Tel Aviv.
+
+5. 🇺🇸 **[ScreenPipe](https://screenpi.pe) ([mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe), 10.0K stars, 9.2x growth)** is a screen search engine, allowing to analyze screen & audio activities across enterprise. Founded in 2024 in San Francisco. Raised undisclosed amount from Founders, Inc.
+
+6. 🇺🇸 **[Void](https://voideditor.com) ([voideditor/void](https://github.com/voideditor/void), 8.5K stars, 8.5x growth)** is an AI code editor, an open-source alternative to Cursor. Founded in 2024 in San Francisco. Raised $500K from YC.
+
+7. 🇬🇧 **[EXO Labs](https://exolabs.net) ([exo-explore/exo](https://github.com/exo-explore/exo), 10.2K stars, 8.5x growth)** builds open infrastructure to train and run AI models everywhere, including everyday home devices. Founded in 2024 in Oxford, UK.
+
+8. 🇺🇸 **[Cline](https://cline.bot) ([cline/cline](https://github.com/cline/cline), 8.5K stars, 8.5x growth)** is an autonomous AI coding agent integrating with other IDEs. Founded in 2024 in San Francisco.
+
+9. 🇺🇸 **[Composio](https://composio.dev) ([composiohq/composio](https://github.com/composiohq/composio), 8.4K stars, 7.2x growth)** develops an integration platform for AI Agents to interact with software applications and system tools. Founded in 2023 in San Francisco. Raised $4M from Together Fund.
+
+10. 🇨🇦 **[VideoLingo](https://videolingo.io) ([huanshere/videolingo](https://github.com/huanshere/videolingo), 7.1K stars, 7.1x growth)** generates AI-powered cinema-grade bilingual subtitles & dubbing. Founded in 2024 in Ontario, Canada.
+
+11. 🇺🇸 **[Instant](https://instantdb.com) ([instantdb/instant](https://github.com/instantdb/instant), 6.7K stars, 6.7x growth)** is a modern frontend-focused real-time database, an open source alternative to Firebase. Founded in 2022 in New York. Raised $3.4M from YC, Pioneer Fund, and Lorimer Ventures.
+
+12. 🇮🇳 **[DiceDB](https://dicedb.io) ([dicedb/dice](https://github.com/dicedb/dice), 6.5K stars, 6.5x growth)** is an in-memory databased for building scalable real-time applications. Founded in 2022 in Bengaluru, India.
+
+13. 🇪🇹 **[Better Auth](https://better-auth.com) ([better-auth/better-auth](https://github.com/better-auth/better-auth), 5.6K stars, 5.6x growth)** is a comprehensive authentication library for TypeScript. Founded in 2024 in Addis Ababa, Ethiopia.
+
+14. 🇺🇸 **[OmniAI](https://getomni.ai) ([getomni-ai/zerox](https://github.com/getomni-ai/zerox), 6.7K stars, 5.3x growth)** builds a workflow automation platform for complex documents, including its open-source Zerox OCR engine. Founded in 2024 in San Francisco. Raised $3.7M from FundersClub, YC, etc.
+
+15. 🇺🇸 **[Melty](https://melty.sh) ([meltylabs/melty](https://github.com/meltylabs/melty), 5.2K stars, 5.2x growth)** develops several AI tools, and chat-first AI code editor Melty is one of them. Founded in 2024 in San Francisco. Raised $0.5M from YC.
+
+16. 🇺🇸 **[Nexa AI](https://nexa.ai) ([nexaai/nexa-sdk](https://github.com/nexaai/nexa-sdk), 5.1K stars, 5.1x growth)** provides AI infrastructure solutions for on-device Gen AI models. Founded in 2023 in San Jose, CA. Raised $16.5M from Alumni Ventures, etc.
+
+17. 🇵🇷 **[Tea](https://tea.xyz) ([teaxyz/white-paper](https://github.com/teaxyz/white-paper), 4.6K stars, 4.6x growth)** is a blockchain protocol for decentralised rewards for open-source creators and maintainers. Founded in 2021 in Puerto Rico. Raised $17M from Acuitas Group, Binance Labs, etc.
+
+18. 🇺🇸 **[Hanabi AI](https://fish.audio) ([fishaudio/fish-speech](https://github.com/fishaudio/fish-speech), 12.7K stars, 4.4x growth)** builds an AI audio generation solution. Founded in 2023 in San Francisco.
+
+19. 🇺🇸 **[LiveKit](https://livekit.io) ([livekit/agents](https://github.com/livekit/agents), 4.1K stars, 4.1x growth)** is a platform for multimodal LLM applications. Founded in 2021 in San Jose. Raised $36M from Altimer, Redpoint, etc.
+
+20. 🇮🇳 **[CognitiveLab](https://cognitivelab.in) ([adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse), 5.1K stars, 4.1x growth)** provides enterprises with AI tools for structured data extraction and transformation. Founded in 2023 in Bengaluru, India.

@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+295992065,tailwindlabs/headlessui,Tailwind Labs,tailwindcss.com,Canada,Cambridge,2017,,TypeScript,1222,3813,3.12,2020-09-30,2020-12-31
+219616873,charmbracelet/glow,Charm,charm.sh,United States,New York,2019,,Go,2256,5798,2.57,2020-09-30,2020-12-31
+214587193,supabase/supabase,Supabase,supabase.io,Singapore,Singapore,2020,6.13,TypeScript,2340,4584,1.96,2020-09-30,2020-12-31
+250213286,huggingface/datasets,Hugging Face,huggingface.co,France,Paris,2016,20.20,Python,3415,5972,1.75,2020-09-30,2020-12-31
+252813491,projectdiscovery/nuclei,Project Discovery,projectdiscovery.io,India,Mumbai,2019,,Go,1412,2412,1.71,2020-09-30,2020-12-31
+79317191,typesense/typesense,Typesense,typesense.org,United States,Los Angeles,2016,,C++,2737,4501,1.65,2020-09-30,2020-12-31
+160427405,plausible/analytics,Plausible,plausible.io,Estonia,Tartu,2018,,Elixir,2939,4830,1.64,2020-09-30,2020-12-31
+246903803,earthly/earthly,Earthly,earthly.dev,United States,San Francisco,2020,2.10,Go,1011,1661,1.64,2020-09-30,2020-12-31
+54400687,loadimpact/k6,K6,k6.io,Sweden,Stockholm,2016,,Go,7381,10974,1.49,2020-09-30,2020-12-31
+132453438,unoplatform/uno,Uno Platform,platform.uno,Canada,Montreal,2018,,C#,2908,4277,1.47,2020-09-30,2020-12-31
+117156031,prysmaticlabs/prysm,Prysmatic Labs,prysmaticlabs.com,United States,New York,2018,2.00,Go,1218,1785,1.47,2020-09-30,2020-12-31
+240315046,jina-ai/jina,Jina AI,jina.ai,Germany,Berlin,2020,7.40,Python,1249,1793,1.44,2020-09-30,2020-12-31
+202291859,chatwoot/chatwoot,Chatwoot,chatwoot.com,India,Bengaluru,2017,,Ruby,4658,6669,1.43,2020-09-30,2020-12-31
+166515022,trinodb/trino,Starburst,starburstdata.com,United States,Boston,2017,164.00,Java,1393,1968,1.41,2020-09-30,2020-12-31
+135321861,ory/kratos,ORY,ory.sh,Germany,Munich,2015,,Go,1363,1910,1.40,2020-09-30,2020-12-31
+224386599,bridgecrewio/checkov,Bridgecrew,bridgecrew.io,United States,San Francisco,2019,18.10,Python,1306,1776,1.36,2020-09-30,2020-12-31
+116817549,webiny/webiny-js,Webiny,webiny.com,United Kingdom,London,2018,0.35,TypeScript,3059,4058,1.33,2020-09-30,2020-12-31
+227803815,returntocorp/semgrep,R2C,r2c.dev,United States,San Francisco,2017,13.00,JavaScript,1948,2579,1.32,2020-09-30,2020-12-31
+79585104,matrix-org/dendrite,Element,element.io,United Kingdom,London,2017,18.10,Go,1117,1472,1.32,2020-09-30,2020-12-31
+172104891,materializeinc/materialize,Materialize,materialize.io,United States,New York,2019,40.50,Rust,1618,2124,1.31,2020-09-30,2020-12-31

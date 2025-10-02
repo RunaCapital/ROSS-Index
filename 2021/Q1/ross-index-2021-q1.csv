@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+198683574,dolthub/dolt,DoltHub,dolthub.com,United States,Los Angeles,2018,5.00,Go,2176,8342,3.83,2020-12-31,2021-03-31
+79149882,lbryio/lbry-desktop,Lbry,lbry.com,United States,Manchester,2015,0.50,JavaScript,1420,3806,2.68,2020-12-31,2021-03-31
+48769241,penpot/penpot,Penpot,penpot.app,Spain,Madrid,2019,,Clojure,1429,3734,2.61,2020-12-31,2021-03-31
+251469970,athensresearch/athens,Athens Research,ycombinator.comcompaniesathens-research,United States,San Francisco,2020,0.13,Clojure,2030,3887,1.92,2020-12-31,2021-03-31
+274625369,infracost/infracost,Infracost,infracost.io,United Kingdom,Edinburgh,2020,0.13,Go,1603,2747,1.71,2020-12-31,2021-03-31
+180190854,appwrite/appwrite,Appwrite,appwrite.io,Israel,Tel Aviv,2019,,JavaScript,3864,6355,1.65,2020-12-31,2021-03-31
+275993885,appsmithorg/appsmith,Appsmith,appsmith.com,India,Bengaluru,2019,,TypeScript,1291,2086,1.62,2020-12-31,2021-03-31
+279895213,papercups-io/papercups,Papercups,papercups.io,United States,San Francisco,2020,0.13,Elixir,2378,3794,1.60,2020-12-31,2021-03-31
+214587193,supabase/supabase,Supabase,supabase.io,Singapore,Singapore,2020,6.13,TypeScript,4584,7058,1.54,2020-12-31,2021-03-31
+144140342,paritytech/polkadot,Parity Technologies,parity.io,United Kingdom,London,2015,5.80,Rust,1902,2871,1.51,2020-12-31,2021-03-31
+135321861,ory/kratos,ORY,ory.sh,Germany,Munich,2015,,Go,1910,2849,1.49,2020-12-31,2021-03-31
+240315046,jina-ai/jina,Jina AI,jina.ai,Germany,Berlin,2020,7.40,Python,1793,2672,1.49,2020-12-31,2021-03-31
+274724694,dendronhq/dendron,Dendron,dendron.so,United States,Seattle,2019,2.00,TypeScript,1058,1572,1.49,2020-12-31,2021-03-31
+160427405,plausible/analytics,Plausible,plausible.io,Estonia,Tartu,2018,,Elixir,4830,7116,1.47,2020-12-31,2021-03-31
+252813491,projectdiscovery/nuclei,Project Discovery,projectdiscovery.io,India,Mumbai,2019,1.70,Go,2413,3537,1.47,2020-12-31,2021-03-31
+295992065,tailwindlabs/headlessui,Tailwind Labs,tailwindcss.com,Canada,Cambridge,2017,,TypeScript,3812,5580,1.46,2020-12-31,2021-03-31
+309512982,vectorizedio/redpanda,Vectorized,vectorized.io,United States,San Francisco,2019,15.50,C++,1343,1917,1.43,2020-12-31,2021-03-31
+179163124,coinalpha/hummingbot,Hummingbot,hummingbot.io,United States,Mountain View,2017,5.06,Python,1077,1522,1.41,2020-12-31,2021-03-31
+192640529,heartexlabs/label-studio,Heartlex,heartex.com,United States,San Francisco,2019,0.15,Python,3877,5431,1.40,2020-12-31,2021-03-31
+255535907,modulz/stitches,Modulz,modulz.app,Ireland,Dublin,2019,5.40,TypeScript,1613,2255,1.40,2020-12-31,2021-03-31

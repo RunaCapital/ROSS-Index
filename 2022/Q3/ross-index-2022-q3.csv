@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+368917877,builderio/qwik,Builder,builder.io,United States,San Francisco,2018,17.30,TypeScript,4430,10541,2.38,2022-06-30,2022-09-30
+400215964,novuhq/novu,Novu,novu.co,Israel,Tel Aviv,2021,6.60,TypeScript,4673,10410,2.23,2022-06-30,2022-09-30
+330914717,unifyai/ivy,Ivy,lets-unify.ai,United Kingdom,London,2021,,Python,2953,6478,2.19,2022-06-30,2022-09-30
+330405184,turbot/steampipe,Turbot,turbot.com,United States,New York,2014,,Go,1634,3557,2.18,2022-06-30,2022-09-30
+66670819,apify/crawlee,Apify,apify.com,Czech Republic,Prague,2015,0.50,TypeScript,3366,6651,1.98,2022-06-30,2022-09-30
+459739627,qovery/replibyte,Qovery,qovery.com,France,Paris,2019,4.00,Rust,1623,3196,1.97,2022-06-30,2022-09-30
+365263843,denoland/fresh,Deno,deno.com,United States,New York,2019,25.90,TypeScript,4703,9100,1.94,2022-06-30,2022-09-30
+284134871,flipperdevices/flipperzero-firmware,Flipper Devices,flipperdevices.com,Russia,Moscow,2020,4.80,C,1779,3275,1.84,2022-06-30,2022-09-30
+48769241,penpot/penpot,Penpot,penpot.app,Spain,Madrid,2019,8.00,Clojure,10532,18175,1.73,2022-06-30,2022-09-30
+299354666,rustdesk/rustdesk-server,RustDesk,rustdesk.com,Singapore,Singapore,2020,,Rust,1334,2232,1.67,2022-06-30,2022-09-30
+348060227,withastro/astro,Astro,astro.build,United States,Oakland,2019,7.00,TypeScript,12642,20884,1.65,2022-06-30,2022-09-30
+410430370,icewhaletech/casaos,IceWhale Technology,zimaboard.com,China,Shanghai,2020,0.40,Go,4074,6660,1.64,2022-06-30,2022-09-30
+229407566,simplex-chat/simplex-chat,SimpleX Chat,simplex.chat,United Kingdom,London,2019,,Haskell,1067,1742,1.63,2022-06-30,2022-09-30
+327089870,payloadcms/payload,Payload CMS,payloadcms.com,United States,Grand Rapids,2018,,TypeScript,4714,7598,1.61,2022-06-30,2022-09-30
+491235501,formkit/auto-animate,FormKit,formkit.com,United States,Charlottesville,2021,,TypeScript,3632,5794,1.60,2022-06-30,2022-09-30
+464434438,lingo3d/lingo3d,Lingo3D,lingo3d.com,China,Shanghai,2019,,TypeScript,1400,2149,1.54,2022-06-30,2022-09-30
+147733573,diffgram/diffgram,Diffgram,diffgram.com,United States,Santa Clara,2018,1.50,Python,1016,1538,1.51,2022-06-30,2022-09-30
+437245741,dragonflydb/dragonfly,DragonflyDB,dragonflydb.io,Israel,Tel Aviv,2022,,C++,8509,12877,1.51,2022-06-30,2022-09-30
+241095326,adap/flower,Adap,adap.com,Germany,Hamburg,2020,,Python,1107,1664,1.50,2022-06-30,2022-09-30
+281519510,fedml-ai/fedml,FedML,fedml.ai,United States,Los Angeles,2022,2.00,Python,1241,1807,1.46,2022-06-30,2022-09-30

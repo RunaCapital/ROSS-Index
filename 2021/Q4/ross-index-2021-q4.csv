@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+220186120,codenotary/immudb,CodeNotary,codenotary.com,United States,Houston,2018,7.00,Go,3153,6437,2.04,2021-09-30,2021-12-31
+357885318,datreeio/datree,Datree,datree.io,Israel,Tel Aviv,2017,11.00,Go,2645,5197,1.97,2021-09-30,2021-12-31
+275993885,appsmithorg/appsmith,Appsmith,appsmith.com,India,Bengaluru,2019,8.00,TypeScript,5899,10952,1.86,2021-09-30,2021-12-31
+206509491,rowyio/rowy,Rowy,rowy.io,Australia,Sydney,2021,,TypeScript,1426,2524,1.77,2021-09-30,2021-12-31
+273499522,radix-ui/primitives,Modulz,modulz.app,Ireland,Dublin,2019,5.40,TypeScript,1553,2670,1.72,2021-09-30,2021-12-31
+120149974,fonoster/fonoster,Fonoster,fonoster.com,United States,Cameron,2015,,JavaScript,2303,3797,1.65,2021-09-30,2021-12-31
+190729906,budibase/budibase,Budibase,budibase.com,United Kingdom,Belfast,2020,0.39,JavaScript,5026,8201,1.63,2021-09-30,2021-12-31
+333303663,bytebase/bytebase,Bytebase,bytebase.com,China,Shanghai,2021,3.00,Go,1133,1840,1.62,2021-09-30,2021-12-31
+19257422,questdb/questdb,QuestDB,questdb.io,United Kingdom,London,2019,14.30,Java,4793,7651,1.60,2021-09-30,2021-12-31
+310456670,builderio/mitosis,Builder,builder.io,United States,San Francisco,2018,17.30,TypeScript,2388,3810,1.60,2021-09-30,2021-12-31
+176777353,rainbow-me/rainbow,Rainbow,rainbow.me,United States,New York,2019,,JavaScript,1343,2024,1.51,2021-09-30,2021-12-31
+290373467,netless-io/flat,Netless,netless.linken,China,Hangzhou,2018,1.00,TypeScript,2152,3213,1.49,2021-09-30,2021-12-31
+299482335,withfig/autocomplete,Fig,fig.io,United States,San Francisco,2020,2.40,TypeScript,5913,8538,1.44,2021-09-30,2021-12-31
+221654678,deepset-ai/haystack,deepset,deepset.ai,Germany,Berlin,2018,1.60,Python,2470,3507,1.42,2021-09-30,2021-12-31
+362806180,openreplay/openreplay,OpenReplay,openreplay.com,France,Paris,2018,1.50,JavaScript,2100,2971,1.42,2021-09-30,2021-12-31
+301793434,mattermost/focalboard,Mattermost,mattermost.com,United States,Palo Alto,2015,70.00,TypeScript,5063,7137,1.41,2021-09-30,2021-12-31
+129558668,nomiclabs/hardhat,Nomic Labs,nomiclabs.io,Argentina,Buenos Aires,2018,,TypeScript,1550,2163,1.40,2021-09-30,2021-12-31
+266231149,logseq/logseq,Logseq,logseq.com,China,Hangzhou,2020,,Clojure,6195,8568,1.38,2021-09-30,2021-12-31
+285012857,jitsucom/jitsu,Jitsu,jitsu.com,United States,San Francisco,2019,2.00,TypeScript,1433,1969,1.37,2021-09-30,2021-12-31
+315977578,evidentlyai/evidently,Evidently,evidentlyai.com,United Kingdom,London,2020,0.13,Jupyter Notebook,1430,1944,1.36,2021-09-30,2021-12-31

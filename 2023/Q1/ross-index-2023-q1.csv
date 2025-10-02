@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+557075997,pynecone-io/pynecone,Pynecone,pynecone.io,United States,San Francisco,2022,0.50,Python,1377,7754,5.63,2022-12-31,2023-03-31
+504215082,sismo-core/sismo-protocol,Sismo,sismo.io,France,Paris,2021,,TypeScript,2926,16148,5.52,2022-12-31,2023-03-31
+525683737,apitable/apitable,APITable,apitable.com,Canada,Toronto,2022,,TypeScript,1678,8096,4.83,2022-12-31,2023-03-31
+458588993,nebuly-ai/nebullvm,Nebuly AI,nebuly.com,Italy,Turin,2021,,Python,1725,7352,4.26,2022-12-31,2023-03-31
+422274596,hpcaitech/colossalai,HPC-AI Tech,hpcaitech.com,Singapore,Singapore,2021,6.00,Python,6951,25297,3.64,2022-12-31,2023-03-31
+425736647,massalabs/massa,Massa Labs,massa.net,France,Paris,2020,5.80,Rust,1156,2886,2.50,2022-12-31,2023-03-31
+254328371,nangohq/nango,Nango,nango.dev,United States,San Francisco,2022,0.50,TypeScript,1185,2402,2.03,2022-12-31,2023-03-31
+521655652,infisical/infisical,Infisical,infisical.com,United States,San Francisco,2022,0.50,TypeScript,2610,5199,1.99,2022-12-31,2023-03-31
+464415161,getlago/lago,Lago,getlago.com,France,Paris,2021,0.13,Shell,1681,2879,1.71,2022-12-31,2023-03-31
+479901156,atri-labs/atrilabs-engine,Atri Labs,atrilabs.com,United States,San Francisco,2022,0.50,JavaScript,2488,4018,1.62,2022-12-31,2023-03-31
+313853293,cloudquery/cloudquery,CloudQuery,cloudquery.io,Israel,Tel Aviv,2021,18.50,Go,2678,4287,1.60,2022-12-31,2023-03-31
+420489845,moonrepo/moon,moonrepo,moonrepo.dev,United States,Portland,2022,0.50,Rust,1151,1773,1.54,2022-12-31,2023-03-31
+493014338,mage-ai/mage-ai,Mage,mage.ai,United States,San Francisco,2020,11.80,Python,2406,3677,1.53,2022-12-31,2023-03-31
+268163609,qdrant/qdrant,Qdrant,qdrant.tech,Germany,Berlin,2021,2.30,Rust,3518,5376,1.53,2022-12-31,2023-03-31
+247714750,zitadel/zitadel,Zitadel,zitadel.com,Switzerland,St. Gallen,2019,2.50,Go,1943,2964,1.53,2022-12-31,2023-03-31
+289423198,snapshot-labs/snapshot,Snapshot Labs,snapshot.org,Thailand,,2021,4.00,Vue,1604,2392,1.49,2022-12-31,2023-03-31
+433383766,nextcloud/all-in-one,NextCloud,nextcloud.com,Germany,Stuttgart,2016,,PHP,1111,1621,1.46,2022-12-31,2023-03-31
+369797101,serverpod/serverpod,Serverpod,serverpod.dev,Sweden,Stockholm,2021,,Dart,1007,1466,1.46,2022-12-31,2023-03-31
+378598624,robusta-dev/robusta,Robusta Dev,home.robusta.dev,Israel,Tel Aviv,2021,,Python,1032,1463,1.42,2022-12-31,2023-03-31
+482719022,illacloud/illa-builder,ILLA Cloud,illacloud.com,China,Beijing,2021,,TypeScript,4360,6139,1.41,2022-12-31,2023-03-31

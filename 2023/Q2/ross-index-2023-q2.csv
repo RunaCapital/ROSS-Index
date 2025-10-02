@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+598342280,hwchase17/langchainjs,Langchain,blog.langchain.dev,Singapore,Singapore,2019,10.00,TypeScript,1493,6684,4.48,2023-03-30,2023-06-30
+515647260,1panel-dev/1panel,FIT2CLOUD,1panel.cn,China,Beijing,2014,26.00,Go,1846,7176,3.89,2023-03-30,2023-06-30
+619959033,nomic-ai/gpt4all,Nomic AI,gpt4all.io,United States,New York,2021,17.00,C++,14818,48014,3.24,2023-03-30,2023-06-30
+617504730,lightning-ai/lit-llama,Lightning AI,lightning.ai,United States,New York,2019,58.60,Python,1564,4707,3.01,2023-03-30,2023-06-30
+567848636,roboflow/notebooks,Roboflow,roboflow.com,United States,Des Moines,2019,22.24,Jupyter Notebook,992,2474,2.49,2023-03-30,2023-06-30
+488804911,windmill-labs/windmill,Windmill,windmill.dev,France,Paris,2021,0.50,JavaScript,2133,5228,2.45,2023-03-30,2023-06-30
+576642715,bloopai/bloop,Bloop,bloop.ai,United Kingdom,London,2021,0.13,TypeScript,3261,7035,2.16,2023-03-30,2023-06-30
+268163609,qdrant/qdrant,Qdrant,qdrant.tech,Germany,Berlin,2021,2.30,Rust,5320,11344,2.13,2023-03-30,2023-06-30
+411630635,terramate-io/terramate,Terramate,terramate.io,Germany,Berlin,2021,,Go,1273,2477,1.95,2023-03-30,2023-06-30
+535103658,toeverything/blocksuite,Affine,affine.pro,Singapore,Singapore,2020,,TypeScript,1096,2089,1.91,2023-03-30,2023-06-30
+459627617,linen-dev/linen.dev,Linen,linen.dev,United States,New York,2020,0.13,TypeScript,1346,2554,1.90,2023-03-30,2023-06-30
+560704231,jerryjliu/llama_index,LlamaIndex,gpt-index.readthedocs.ioenlatest,United States,San Francisco,2022,8.50,Python,9932,18145,1.83,2023-03-30,2023-06-30
+289073337,highlight/highlight,Highlight,highlight.io,United States,San Francisco,2020,0.50,TypeScript,2467,4496,1.82,2023-03-30,2023-06-30
+598539671,connectai-e/feishu-openai,Enterprise Alliance AI,connectai-e.com,China,,2023,,Go,2524,4596,1.82,2023-03-30,2023-06-30
+458094748,omnivore-app/omnivore,Omnivore,omnivore.app,United States,San Francisco,2022,,HTML,1325,2343,1.77,2023-03-30,2023-06-30
+371239231,evidence-dev/evidence,Evidence,evidence.dev,Canada,Toronto,2021,0.13,Svelte,1066,1858,1.74,2023-03-30,2023-06-30
+535360445,ultralytics/ultralytics,Ultralytics,ultralytics.com,United States,Los Angeles,2014,,Python,5536,9652,1.74,2023-03-30,2023-06-30
+549830413,civitai/civitai,Civit,civitai.com,United States,Boise,2013,5.10,TypeScript,2331,4050,1.74,2023-03-30,2023-06-30
+439447708,bluesky-social/atproto,Bluesky,blueskyweb.xyz,United States,Washington,2022,,TypeScript,2596,4442,1.71,2023-03-30,2023-06-30
+572248260,serverless-stack/open-next,SST,open-next.js.org,United States,San Francisco,2017,1.00,JavaScript,1212,2068,1.71,2023-03-30,2023-06-30
