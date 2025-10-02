@@ -1,41 +1,22 @@
 # Top trending open-source startups in Q1 2021
 
 1. 🇺🇸 **[DoltHub](https://www.dolthub.com/) (dolthub/dolt, 8.3K stars, 21500% AGR).** Data platform with version control and collaboration tools (Git for data). Founded in 2018 in Los Angeles and raised $5M from Timothy Sehn.
-
 2. 🇺🇸 **[Lbry](https://lbry.com/) (lbryio/lbry-desktop, 3.8K stars, 5061% AGR).** Content sharing and publishing decentralized platform. Founded in 2015 in Manchester and raised $0.5M from Pillar VC.
-
 3. 🇪🇸 **[Penpot](https://penpot.app/) (penpot/penpot, 3.7K stars, 4562% AGR).** Design and prototyping platform meant for cross-domain teams. Founded in 2019 in Madrid and has no known external funding.
-
 4. 🇺🇸 **[Athens Research](https://www.ycombinator.com/companies/athens-research) (athensresearch/athens, 3.9K stars, 1244% AGR).** Note-taking app (alternative to Roam Research). Founded in 2020 in San Francisco and raised $125K from Y Combinator.
-
 5. 🇬🇧 **[Infracost](https://www.infracost.io/) (infracost/infracost, 2.7K stars, 762% AGR).** Cost estimation tool for DevOps, SRE and developers . Founded in 2020 in Edinburgh and raised $125K from Y Combinator.
-
 6. 🇮🇱 **[Appwrite](https://appwrite.io/) (appwrite/appwrite, 6.4K stars, 632% AGR).** Backend-as-a-service for web, mobile and Flutter developers. Founded in 2019 in Tel Aviv and has no known external funding.
-
 7. 🇮🇳 **[Appsmith](https://www.appsmith.com/) (appsmithorg/appsmith, 2.1K stars, 582% AGR).** Framework for the building of admin panels, CRUD apps and workflows. Founded in 2019 in Bengaluru and has no known external funding.
-
 8. 🇺🇸 **[Papercups](https://papercups.io/) (papercups-io/papercups, 3.8K stars, 548% AGR).** Customer messaging service (open-source alternative to Intercom). Founded in 2020 in San Francisco and raised $125K from Y Combinator and Lombardstreet Ventures
-
 9. 🇸🇬 **[Supabase](https://supabase.io) (supabase/supabase, 7.1K stars, 462% AGR).** RESTful APIs for PostgreSQL without a single line of code (open-source alternative to Firebase). Founded in 2020 in Singapore and raised $6.1M from Coatue and Y Combinator.
-
 10. 🇬🇧 **[Parity Technologies](https://www.parity.io/) (paritytech/polkadot, 2.9K stars, 419% AGR).** Blockchain infrastructure developer, mostly known for its involvement in Polkadot. Founded in 2015 in London and raised $5.8M from Fenbushi Capital, Blockchain Capital, etc
-
 11. 🇩🇪 **[ORY](https://www.ory.sh/) (ory/kratos, 2.8K stars, 395% AGR).** Identity Infrastructure for cloud developers. Founded in 2015 in Munich and has no known external funding.
-
 12. 🇩🇪 **[Jina AI](https://jina.ai/) (jina-ai/jina, 2.7K stars, 393% AGR).** Neural search ecosystem for businesses and developers. Founded in 2020 in Berlin and raised $7.5M from GGV Capital, SAP.io, Yunqi Partners.
-
 13. 🇺🇸 **[Dendron](https://www.dendron.so/) (dendronhq/dendron, 1.6K stars, 387% AGR).** Note taking tool. Founded in 2019 in Seattle and raised $2M from Fuse VC
-
 14. 🇪🇪 **[Plausible](https://plausible.io) (plausible/analytics, 7.1K stars, 371% AGR).** Web analytics (open-source alternative to Google Analytics). Founded in 2018 in Estonia and has no known external funding.
-
 15. 🇮🇳 **[Project Discovery](https://projectdiscovery.io/) (projectdiscovery/nuclei, 3.5K stars, 362% AGR).** Automated cloud-based reconnaissance and monitoring for IT security. Founded in 2019 in Mumbai and raised $1.7M from Accel, SignalFire, Rain Capital.
-
 16. 🇨🇦 **[Tailwind Labs](https://tailwindcss.com/) (tailwindlabs/headlessui, 5.6K stars, 359% AGR).** Developer of popular US framework Tailwind CSS. Founded in 2017 in Cambridge and has no known external funding.
-
 17. 🇺🇸 **[Vectorized](https://vectorized.io/) (vectorizedio/redpanda, 1.9K stars, 315% AGR).** Event streaming platform (replacement for Apache Kafka). Founded in 2019 in San Francisco and raised $15.5M from Lightspeed, GV
-
 18. 🇺🇸 **[Hummingbot](https://hummingbot.io/) (coinalpha/hummingbot, 1.5K stars, 299% AGR).** Bot framework for customizable crypto trading strategies. Founded in 2017 in Mountain View and raised $5.1M from Bain Capital, Collider Ventures, etc
-
 19. 🇺🇸 **[Heartlex](https://heartex.com/) (heartexlabs/label-studio, 5.4K stars, 285% AGR).** Platform for data labelling. Founded in 2019 in San Francisco and raised $150K from 500 Startups and Creative Destruction Lab.
-
 20. 🇮🇪 **[Modulz](https://www.modulz.app/) (modulz/stitches, 2.3K stars, 282% AGR).** Code-based tool for designing and prototyping. Founded in 2019 in Dublin and raised $5.4M from LocalGlobe, Frontline, Tiny VC.

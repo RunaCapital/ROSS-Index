@@ -1,41 +1,22 @@
 # Top trending open-source startups in Q1 2025
 
 1. 🇨🇭 **[Anoma](https://anoma.net) ([anoma/anoma](https://github.com/anoma/anoma), 27.2K stars, 27.2x growth)** is a distributed operating system for intent-centric, decentralized applications. Founded in 2020 in Zug, Switzerland. Raised $57.8M from Electric, Polychain, CMCC Global, etc.
-
 2. 🇺🇸 **[Browser Use](https://browser-use.com) ([browser-use/browser-use](https://github.com/browser-use/browser-use), 24.0K stars, 24.0x growth)** is a framework that enables AI agents to seamlessly interact and control web browsers. Founded in 2024 in San Francisco. Raised $17.5M from Y Combinator, Nexus, Felicis, etc.
-
 3. 🇺🇸 **[Million](https://million.dev) ([aidenybai/react-scan](https://github.com/aidenybai/react-scan), 14.7K stars, 14.7x growth)** develops React Scan, a tool for optimizing React code by identifying performance bottlenecks. Founded in 2023 in San Francisco. Raised $0.5M from Y Combinator.
-
 4. 🇺🇸 **[elizaOS](https://elizaos.ai) ([elizaos/eliza](https://github.com/elizaos/eliza), 14.4K stars, 14.4x growth)** is a comprehensive framework for building AI agents with persistent personalities. Founded in 2024 in San Francisco.
-
 5. 🇺🇸 **[Linera](https://linera.io) ([linera-io/linera-protocol](https://github.com/linera-io/linera-protocol), 20.5K stars, 14.3x growth)** develops a blockchain protocol for highly scalable, low-latency Web3 applications. Founded in 2021 in San Francisco. Raised $12M from Andreessen Horowitz, Borderless, Tribe, etc.
-
 6. 🇮🇳 **[RagaAI](https://raga.ai) ([raga-ai-hub/ragaai-catalyst](https://github.com/raga-ai-hub/ragaai-catalyst), 14.9K stars, 13.5x growth)** offers Catalyst, a GenAI management and optimization platform. Founded in 2021 in India. Raised $4.7M from Pravega, Pi, Arka Labs, TenOneTen, Exfinity, Anorak, Mana.
-
 7. 🇨🇳 **[Cherry Studio](https://cherry-ai.com) ([cherryhq/cherry-studio](https://github.com/cherryhq/cherry-studio), 18.4K stars, 11.5x growth)** is a desktop chat app that supports multiple LLM providers. Founded in 2021 in Shanghai, China.
-
 8. 🇺🇸 **[Mastra](https://mastra.ai) ([mastra-ai/mastra](https://github.com/mastra-ai/mastra), 11.5K stars, 9.7x growth)** is a TypeScript Agentic Framework with built-in workflows, RAG, agents, integrations and evals. Founded in 2024 in San Francisco. Raised $0.5M from Y Combinator, SAV.
-
 9. 🇺🇸 **[Turso](https://turso.tech) ([tursodatabase/limbo](https://github.com/tursodatabase/limbo), 9.7K stars, 9.3x growth)** offers Limbo, a database engine written in Rust with a native async support. Founded in 2021 in Claymont, DE. Raised $7M from Norwest, Mango, Jamstack, First Star, Essence, Blumberg.
-
 10. 🇮🇳 **[Maxun](https://maxun.dev) ([getmaxun/maxun](https://github.com/getmaxun/maxun), 8.8K stars, 8.8x growth)** is a no-code web data extraction tool. Founded in 2023 in Mumbai, India.
-
 11. 🇺🇸 **[Browserbase](https://browserbase.com) ([browserbase/stagehand](https://github.com/browserbase/stagehand), 7.3K stars, 7.3x growth)** offers Stagehand, an AI-based browser automation tool. Founded in 2024 in San Francisco. Raised $27.4M from Kleiner Perkins, CRV, etc.
-
 12. 🇫🇷 **[Coderamp](https://coderamp.io) ([cyclotruc/gitingest](https://github.com/cyclotruc/gitingest), 7.2K stars, 7.2x growth)** develops Gitingest, a tool that turns any Git repository into a prompt-friendly text. Founded in 2024 in Lyon, France. Raised an undisclosed amount from Kima.
-
 13. 🇬🇧 **[Pydantic](https://pydantic.dev) ([pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai), 6.9K stars, 6.9x growth)** develops a Python agent framework designed to build production grade applications with GenAI. Founded in 2017 in London. Raised $17.2M from Irregular Expressions, Sequoia, Partech, etc.
-
 14. 🇺🇸 **[Quivr](https://quivr.app) ([quivrhq/megaparse](https://github.com/quivrhq/megaparse), 5.8K stars, 5.8x growth)** develops versatile file parser for LLM Ingestion. Founded in 2022 in New York. Raised $3.55M from Kima, Y Combinator.
-
 15. 🇺🇸 **[OpenInterface](https://openinterface.ai) ([raidendotai/cofounder](https://github.com/raidendotai/cofounder), 5.8K stars, 5.8x growth)** offers Cofounder, an AI-powered, browser-based platform for full-stack web development. Founded in 2024 in Wilmington, DE.
-
 16. 🇩🇪 **[Readest](https://readest.com) ([readest/readest](https://github.com/readest/readest), 5.5K stars, 5.5x growth)** is a cross-platform, feature-rich ebook reader. Founded in 2024 in Germany.
-
 17. 🇪🇹 **[Better Auth](https://better-auth.com) ([better-auth/better-auth](https://github.com/better-auth/better-auth), 5.6K stars, 5.1x growth)** is a framework-agnostic authentication library for TypeScript. Founded in 2024 in Addis Ababa, Ethiopia.
-
 18. 🇫🇷 **[Pathway](https://pathway.com) ([pathwaycom/pathway](https://github.com/pathwaycom/pathway), 22.4K stars, 5.1x growth)** offers a real-time data processing framework for building fast, resilient, and AI-powered data pipelines. Founded in 2020 in Paris, France. Raised $14.5M from Market One, Inovo, Id4, TQ, Kadmos.
-
 19. 🇺🇸 **[SST](https://sst.dev) ([toolbeam/openauth](https://github.com/toolbeam/openauth), 4.8K stars, 4.8x growth)** offers OpenAuth, a universal, standards-based auth provider. Founded in 2017 in San Francisco. Raised $1.62M from Y Combinator, SV Angel, Greylock, etc.
-
 20. 🇺🇸 **[OmniAI](https://getomni.ai) ([getomni-ai/zerox](https://github.com/getomni-ai/zerox), 7.7K stars, 4.8x growth)** develops Zerox, a vision-based OCR tool. Founded in 2023 in San Francisco. Raised $3.7M from Y Combinator, Eight, FundersClub, etc.

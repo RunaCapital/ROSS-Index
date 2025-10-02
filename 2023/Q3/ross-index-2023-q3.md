@@ -1,41 +1,22 @@
 # Top trending open-source startups in Q3 2023
 
 1. 🇺🇸 **[Embedchain](https://embedchain.ai/) (embedchain/embedchain, 5.3K stars, 1010% AGR).** Load, index, retrieve & sync unstructured data with LLMs. Founded in 2023 in San Francisco
-
 2. 🇺🇸 **[LangGenius](https://dify.ai/) (langgenius/dify, 8.7K stars, 774% AGR).** Easy-to-use LLMOps platform to build & manage AI-native apps. Founded in 2023 in New York
-
 3. 🇬🇧 **[Manticore Search](https://manticoresearch.com) (manticoresoftware/manticoresearch, 6.3K stars, 679% AGR).** Easy-to-use open-source fast database for search. Founded in 2017 in Gillingham
-
 4. 🇺🇸 **[FlowiseAI](https://flowiseai.com/) (flowiseai/flowise, 16.2K stars, 650% AGR).** UI visual tool to build your customized LLM flow using Langchain. Founded in 2023 in San Francisco and raised $0.5M from Y Combinator
-
 5. 🇨🇳 **[1Panel](https://1panel.cn/) (1panel-dev/1panel, 11.4K stars, 518% AGR).** 1Panel is a new generation of Linux server operation and maintenance management panel. Founded in 2014 in Beijing and raised $26M from Legend Capital, Vision Knight Capital, GF Qianhe Investment, Redpoint Ventures China, Wangsu Science & Technology
-
 6. 🇺🇸 **[Plane](https://plane.so) (makeplane/plane, 17K stars, 459% AGR).** Software development tool to manage issues, sprints, and product roadmaps with peace of mind. Founded in 2022 in Delaware
-
 7. 🇩🇪 **[Coqui](https://coqui.ai) (coqui-ai/tts, 19.5K stars, 414% AGR).** Realistic, emotive text-to-speech through generative AI. Founded in 2021 in Berlin and raised $3.3M from ScaleX Ventures, Mango Capital and DNX Ventures
-
 8. 🇺🇸 **[Oven](https://oven.sh) (oven-sh/bun, 63.4K stars, 403% AGR).** Oven is a new JavaScript runtime designed for speed with an integrated native bundler, test runner, and package manager that is compatible with npm
-
 9. 🇬🇧 **[Tldraw](https://www.tldraw.com/) (tldraw/tldraw, 21.2K stars, 391% AGR).** Tldraw is a drawing app that provides users with a collaborative canvas without any login. Founded in 2021 in London and raised $2.7M from Lux Capital and NP-Hard Ventures
-
 10. 🇨🇳 **[IceWhale Technology](https://casaos.io/) (icewhaletech/casaos, 16.2K stars, 370% AGR).** Simple, easy to use, elegant open source personal cloud system. Founded in 2020 in Shangai and raised $3.7M from Yunshi Capital, MiraclePlus and iStart Ventures
-
 11. 🇺🇸 **[DioxusLabs](https://dioxuslabs.com) (dioxuslabs/dioxus, 14.1K stars, 306% AGR).** Dioxus is a Rust library for building apps that run on desktop, web, mobile, and more. Founded in 2023 in San Francisco and raised $0.5M from Y Combinator
-
 12. 🇺🇸 **[Infisical](https://infisical.com) (infisical/infisical, 9.7K stars, 305% AGR).** End-to-end encrypted secrets manager. Founded in 2022 in San Francisco and raised $2.9M from Gradiant Ventures and Y Combinator
-
 13. 🇩🇪 **[NetBird](https://netbird.io) (netbirdio/netbird, 6.5K stars, 295% AGR).** Netbird is an open-source VPN platform making it easy to create secure private networks. Founded in 2022 in Berlin and raised $1.2M from Nauta Capital, Rheingau Founders and Antler
-
 14. 🇺🇸 **[Reflex](https://reflex.dev) (reflex-dev/reflex, 13K stars, 291% AGR).** Full-stack Python framework to quickly design and deploy web projects. Founded in 2022 in San Francisco and raised $5.5M from Lux Capital, Y Combinator, Picus Capital, Outset Capital, BoxGroup and Abstract Ventures
-
 15. 🇺🇸 **[Ultralytics](https://ultralytics.com) (ultralytics/ultralytics, 13.3K stars, 258% AGR).** Low-code computer vision platform. Founded in 2022 in Los Angeles
-
 16. 🇺🇸 **[OpenObserve](https://openobserve.ai) (openobserve/openobserve, 6.7K stars, 247% AGR).** Observe front end, back end, databases, network and more. Founded in 2022 in San Francisco and raised $3.6M from Nexus Venture Partners, Dell Technology Capital and Cardinia Ventures
-
 17. 🇺🇸 **[SuperAGI](https://superagi.com/) (transformeroptimus/superagi, 12.4K stars, 223% AGR).** Infrastructure components, tools, frameworks and models to build autonomous AI agents. Founded in 2023 in Newark
-
 18. 🇺🇸 **[TabbyML](https://tabbyml.com/) (tabbyml/tabby, 10.8K stars, 209% AGR).** AI Coding Assistant to write code faster. Founded in 2023 in San Francisco and raised $3.2M from Yunqi Partners and Zoo Capital
-
 19. 🇨🇦 **[changedetection.io](https://changedetection.io/) (dgtlmoon/changedetection.io, 12.5K stars, 203% AGR).** Website change detection, restock monitor and notification service. Founded in 2021
-
 20. 🇺🇸 **[BentoML](https://bentoml.com/) (bentoml/openllm, 6.2K stars, 202% AGR).** Platform for software engineers to build AI products. Founded in 2019 in San Francisco and raised $9M from Alchemist Accelerator, Bow Capital, DCM Ventures, Firestreak Ventures, Lei Du, Samsung NEXT

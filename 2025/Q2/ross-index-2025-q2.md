@@ -1,41 +1,22 @@
 # Top trending open-source startups in Q2 2025
 
 1. 🇺🇸 **[Union Labs](https://union.build) ([unionlabs/union](https://github.com/unionlabs/union), 54.2K stars, 54.2x growth)** is a modular zero-knowledge interoperability layer linking blockchains. Founded in 2023 in Dover, DE. Raised $16M from Semantic, Tioga, Galileo, Nascent, LongHash, gCC, etc.
-
 2. 🇺🇸 **[Linera](https://linera.io) ([linera-io/linera-protocol](https://github.com/linera-io/linera-protocol), 21.2K stars, 14.6x growth)** develops a blockchain protocol for highly scalable, low-latency Web3 applications. Founded in 2021 in San Francisco. Raised $12M from Andreessen Horowitz, Borderless, Tribe, etc.
-
 3. 🇺🇸 **[Sesame](https://sesame.com) ([sesameailabs/csm](https://github.com/sesameailabs/csm), 13.4K stars, 13.4x growth)** designs voice-first AI eyewear and a companion assistant. Founded in 2022 in San Francisco. Raised $57.6M from Andreessen Horowitz, BIG, Matrix, Spark, etc.
-
 4. 🇸🇬 **[Mindverse](https://mindverse.ai) ([mindverse/second-me](https://github.com/mindverse/second-me), 12.8K stars, 12.8x growth)** develops [SecondMe](https://www.secondme.io/), a locally run AI doppelganger that keeps all your data private. Founded in 2022 in Singapore. Raised $29.9M from Square Peg, Hongshan, K2VC, Linear, Plug and Play Tech Center, HSG.
-
 5. 🇨🇭 **[Browser Use](https://browser-use.com) ([browser-use/web-ui](https://github.com/browser-use/web-ui), 11.5K stars, 11.5x growth)** is a toolkit that lets AI agents control a browser, automating end-to-end web workflows. Founded in 2024 in Zurich. Raised $17.5M from Y Combinator, Felicis, SV Angel, Pioneer, Nexus, Liquid 2, A.Capital etc.
-
 6. 🇺🇸 **[Prefect](https://prefect.io) ([jlowin/fastmcp](https://github.com/jlowin/fastmcp), 10.6K stars, 10.2x growth)** built Python workflow orchestration. Now developing [FastMCP 2.0](https://gofastmcp.com/), a Pythonic toolkit to build MCP servers for tool-enabled LLMs. Founded in 2018 in Washington, DC. Raised $60M from Positive Sum, Atreides, Operator, Bessemer, Quiet, Tiger.
-
 7. 🇺🇸 **[Mastra](https://mastra.ai) ([mastra-ai/mastra](https://github.com/mastra-ai/mastra), 11.8K stars, 9.9x growth)** provides a TypeScript agent framework with cloud workflows and observability. Founded in 2024 in San Francisco. Raised $0.5M from Y Combinator, Pioneer, SAV, Orange Collective, etc.
-
 8. 🇸🇬 **[DUIX](https://duix.com) ([duixcom/duix.heygem](https://github.com/duixcom/duix.heygem), 9.7K stars, 9.7x growth)** provides a digital-human SDK for real-time interactions. Founded in 2017 in Singapore.
-
 9. 🇫🇷 **[Lightpanda](https://lightpanda.io) ([lightpanda-io/browser](https://github.com/lightpanda-io/browser), 8.2K stars, 8.2x growth)** is a Zig-built headless browser optimized for AI automation. Founded in 2022 in Paris. Raised an undisclosed amount from Agoranov, ISAI, Prototype, etc.
-
 10. 🇺🇸 **[Oumi](https://oumi.ai) ([oumi-ai/oumi](https://github.com/oumi-ai/oumi), 8.1K stars, 8.1x growth)** builds open-source frontier AI models through a global community. Founded in 2024 in Seattle, WA. Raised $10M from Plug and Play, Ascend, Obvious, Venrock, etc.
-
 11. 🇨🇳 **[Cherry Studio](https://cherry-ai.com) ([cherryhq/cherry-studio](https://github.com/cherryhq/cherry-studio), 21.6K stars, 7.9x growth)** is a desktop chat app that supports multiple LLM providers. Founded in 2021 in Shanghai, China.
-
 12. 🇺🇸 **[LangChain](https://langchain.com) ([langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher), 7.2K stars, 7.2x growth)** builds a full-stack agent toolkit. Founded in 2022 in San Francisco. Raised $35M from Benchmark, Sequoia, Conviction Partners, Lux, Abstract, etc.
-
 13. 🇺🇸 **[Zyphra](https://zyphra.com) ([zyphra/zonos](https://github.com/zyphra/zonos), 6.6K stars, 6.6x growth)** develops leading open-weight text-to-speech models. Founded in 2021 in Palo Alto, SF. Raised an undisclosed amount from Defined, BC, Bison, Future, Gaia, etc.
-
 14. 🇸🇬 **[Leopard Labs](https://nanobrowser.ai) ([nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser), 6.3K stars, 6.3x growth)** builds Nanobrowser, an AI web automation tool that runs in your browser. Founded in 2024 in Singapore.
-
 15. 🇺🇸 **[Crestal](https://crestal.network) ([crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit), 6.2K stars, 6.2x growth)** develops IntentKit, an autonomous agent framework. Founded in 2024 in San Francisco. Raised $2M from Veris, SMAPE, Quotient, Pragma, NxGen, MH, LIF, Builder, etc.
-
 16. 🇮🇳 **[RagaAI](https://raga.ai) ([raga-ai-hub/ragaai-catalyst](https://github.com/raga-ai-hub/ragaai-catalyst), 15.7K stars, 6.1x growth)** offers Catalyst, a GenAI management and optimization platform. Founded in 2021 in India. Raised $4.7M from Pravega, Pi, Arka Labs, TenOneTen, Exfinity, Anorak, Mana, etc..
-
 17. 🇺🇸 **[Zero](https://0.email) ([mail-0/zero](https://github.com/mail-0/zero), 6.0K stars, 6.0x growth)** is an open-source, privacy-first email client. Founded in 2025 in San Francisco. Raised $0.5M from Y Combinator.
-
 18. 🇺🇸 **[Pangolin](https://digpangolin.com) ([fosrl/pangolin](https://github.com/fosrl/pangolin), 5.7K stars, 5.7x growth)** is a self-hosted WireGuard-tunneled reverse proxy. Founded in 2024 in the United States. Raised $0.5M from Y Combinator.
-
 19. 🇺🇸 **[Firecrawl](https://firecrawl.dev) ([nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research), 5.5K stars, 5.5x growth)** turns websites into clean, LLM‑ready data with fast crawling and AI‑powered extraction. Founded in 2022 in San Francisco. Raised an undisclosed amount from Y Combinator.
-
 20. 🇺🇸 **[LastMile AI](https://lastmileai.dev) ([lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent), 5.5K stars, 5.5x growth)** helps debug, evaluate and monitor generative-AI applications. Founded in 2023 in New York. Raised $10M from Gradient, Firsthand, Exceptional Capital, AME Cloud, 10x Founders, etc.

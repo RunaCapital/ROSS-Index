@@ -1,41 +1,22 @@
 # Top trending open-source startups in Q1 2024
 
 1. 🇺🇸 **[Builder.io](https://builder.io) ([builderio/gpt-crawler](https://github.com/builderio/gpt-crawler), 16.7K stars, 16.7x growth).** AI-powered platform to quickly transform designs into optimized web and mobile experiences. Founded in 2019 in San Francisco. Raised $17.25M from Greylock, Sugar Capital and Mango Capital.
-
 2. 🇺🇸 **[MyShell](https://myshell.ai) ([myshell-ai/openvoice](https://github.com/myshell-ai/openvoice), 16.3K stars, 16.3x growth).** Decentralized platform for discovering, creating, and staking AI-native apps. Founded in 2023 in San Francisco. Raised $16.6M from Dragonfly, Robot Ventures, Maven 11 Capital and Nascent.
-
 3. 🇸🇬 **[Jan](https://jan.ai) ([janhq/jan](https://github.com/janhq/jan), 14.2K stars, 14.2x growth).** Cross-platform solution to run AI model locally. Founded in 2023 in Singapore.
-
 4. 🇨🇳 **[LobeHub](https://lobehub.com) ([lobehub/lobe-chat](https://github.com/lobehub/lobe-chat), 14.6K stars, 13.8x growth).** AI-based engineer assistant to boost productivity in various workflows. Founded in 2023 in Hangzhou.
-
 5. 🇧🇷 **[CrewAI](https://crewai.com) ([joaomdmoura/crewai](https://github.com/joaomdmoura/crewai), 10.8K stars, 10.8x growth).** Platform for creating and managing AI Agents for enterprises. Founded in 2023 in São Paulo.
-
 6. 🇺🇸 **[Orkes](https://orkes.io) ([conductor-oss/conductor](https://github.com/conductor-oss/conductor), 7.1K stars, 7.0x growth).** Microservices and workflow orchestration platform. Founded in 2021 in Cupertino. Raised $29.3M from Battery Ventures, Nexus Venture Partners and Vertex Ventures.
-
 7. 🇺🇸 **[Hyper Write](https://hyperwriteai.com) ([othersideai/self-operating-computer](https://github.com/othersideai/self-operating-computer), 6.5K stars, 6.5x growth).** AI personal assistant for writing and research. Founded in 2020 in New York. Raised $5.4M from Madrona, Active Capital and Hustle Fund.
-
 8. 🇺🇸 **[LlamaIndex](https://llamaindex.ai) ([run-llama/rags](https://github.com/run-llama/rags), 5.5K stars, 5.5x growth).** Flexible data framework for connecting custom data sources to large language models. Founded in 2023 in San Francisco. Raised $8.5M from Greylock and various business angels.
-
 9. 🇫🇷 **[Taipy](https://taipy.io) ([avaiga/taipy](https://github.com/avaiga/taipy), 5.5K stars, 5.5x growth).** A platform for building Python-based data and AI web applications. Founded in 2020 in Orsay, France.
-
 10. 🇺🇸 **[LangChain](https://langchain.com) ([langchain-ai/opengpts](https://github.com/langchain-ai/opengpts), 5.5K stars, 5.5x growth).** Framework for buildign and managing LLM-based application workflows Founded in 2022 in San Francisco. Raised $35M from Benchmark and Sequoia Capital.
-
 11. 🇮🇳 **[Bruno](https://www.usebruno.com) ([usebruno/bruno](https://github.com/usebruno/bruno), 10.4K stars, 5.3x growth).** Re-Inventing the API Client. Founded in 2021 in Bangalore.
-
 12. 🇬🇧 **[Pydantic](https://pydantic.dev) ([pydantic/fastui](https://github.com/pydantic/fastui), 4.5K stars, 4.5x growth).** Open source data-validation framework. Founded in 2022 in London. Raised $4.7M from Bryan Helmig, David Cramer, Irregular Expressions, Partech, Sequoia Capital and Tristan Handy.
-
 13. 🇩🇪 **[SuperDuperDB](https://superduperdb.com) ([superduperdb/superduperdb](https://github.com/superduperdb/superduperdb), 4.2K stars, 4.2x growth).** Bring AI to your Database. Founded in 2023 in Berlin.
-
 14. 🇭🇷 **[Pythagora](https://pythagora.io) ([pythagora-io/gpt-pilot](https://github.com/pythagora-io/gpt-pilot), 18.8K stars, 4.1x growth).** Build apps from scratch in natural language. Founded in 2023 in Zagreb. Raised $0.5M from YCombinator.
-
 15. 🇺🇸 **[LibreChat](https://librechat.ai) ([danny-avila/librechat](https://github.com/danny-avila/librechat), 7.5K stars, 3.8x growth).** An open source AI chat platform. Founded in 2023 in New York.
-
 16. 🇦🇺 **[Unsloth AI](https://unsloth.ai) ([unslothai/unsloth](https://github.com/unslothai/unsloth), 3.7K stars, 3.7x growth).** Fine tune and train LLMs. Founded in 2023 in Sydney.
-
 17. 🇺🇸 **[CopilotKit](https://recursively.ai) ([copilotkit/copilotkit](https://github.com/copilotkit/copilotkit), 3.6K stars, 3.6x growth).** AI co-pilots for your product in hours, not months. Founded in 2023 in Seattle.
-
 18. 🇨🇦 **[Ollama](https://ollama.com) ([ollama/ollama](https://github.com/ollama/ollama), 28.9K stars, 3.6x growth).** Get up and running with large language models, locally. Founded in 2023 in Toronto.
-
 19. 🇺🇸 **[Mintplex Labs](https://mintplexlabs.com) ([mintplex-labs/anything-llm](https://github.com/mintplex-labs/anything-llm), 8.8K stars, 3.2x growth).** Software for businesses to use AI with the controls required by businesses. Founded in 2022 in Irvine.
-
 20. 🇮🇱 **[Gitroom](https://gitroom.com) ([gitroomhq/gitroom](https://github.com/gitroomhq/gitroom), 2.9K stars, 2.9x growth).** Grow your open-source repository. Founded in 2023 in Tel-Aviv.

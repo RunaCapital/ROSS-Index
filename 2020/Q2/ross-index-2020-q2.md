@@ -1,41 +1,22 @@
 # Top trending open-source startups in Q2 2020
 
 1. 🇩🇪 **[Prisma](https://www.prisma.io/) (prisma/prisma, 3.9K stars, 694% AGR).** Database tools for TypeScript and Node.js. Founded in 2016 in Berlin and raised $16.5M from Kleiner Perkins, Mango Capital, Amplify Partners, etc.
-
 2. 🇫🇷 **[Meili](https://www.meilisearch.com/) (meilisearch/meilisearch, 6.1K stars, 634% AGR).** API-focused fast search engine (an alternative to ElasticSearch). Founded in 2018 in Paris and has no known external funding to date.
-
 3. 🇺🇸 **[Cortex Labs](https://www.cortex.dev/) (cortexlabs/cortex, 5.4K stars, 328% AGR).** API platform for deployment of ML models (an open-source rival to AWS SageMaker). Founded in 2018 in Oakland, CA and has no known external funding.
-
 4. 🇳🇱 **[Framer](https://www.framer.com/) (framer/motion, 5.6K stars, 182% AGR).** Browser-based design tools for teams trending with its open-sourced library Motion. Founded in 2013 in Amsterdam and raised $33M by from Atomico, Accel, Foundation Capital, etc.
-
 5. 🇺🇸 **[Streamlit](https://www.streamlit.io/) (streamlit/streamlit, 9.4K stars, 178% AGR).** Framework for fast development of frontend data apps, increasing the productivity of data science and machine learning teams. Founded in 2018 in San Francisco and raised $27M from GGV Ventures, Gradient Ventures, Bloomberg Beta.
-
 6. 🇫🇷 **[Hugging Face](https://huggingface.co/) (huggingface/transformers, 29.7K stars, 127% AGR).** Developer of the natural language processing library Transformers and a popular [AI-based chatbot for teenagers](https://wersm.com/hugging-face-chatbot-is-the-best-artificial-bff-for-teenagers/). Founded in 2016 in Paris and raised $20.2M from Lux Capital, SV Angel, A.Capital, etc.
-
 7. 🇺🇸 **[Pulumi](https://www.pulumi.com/) (pulumi/pulumi, 5.9K stars, 117% AGR).** Platform for cloud app development and deployment. Founded in 2017 in Seattle and raised $20M from Madrona Venture Group and Tola Capital
-
 8. 🇺🇦 **[ThingsBoard](https://thingsboard.io/) (thingsboard/thingsboard, 6.4K stars, 113% AGR).** IoT platform for data collection, processing, visualisation and device management (an open-source alternative to IoT @ AWS/Azure/GCP). Founded in 2016 in Kyiv and has no known external funding.
-
 9. 🇫🇷 **[Genymobile](https://www.genymobile.com/) (genymobile/scrcpy, 32.7K stars, 106% AGR).** Solutions for development and testing of Android apps. Founded in 2011 in Paris and raised $9.7M from Alven and BPI France.
-
 10. 🇺🇸 **[Timber](https://timber.io/) (timberio/vector, 4.3K stars, 96% AGR).** Developer-focused cloud logging system. Founded in 2016 in New York and raised $5.8M from NextView Ventures, Notation Capital, etc
-
 11. 🇩🇪 **[N8N](https://n8n.io/) (n8n-io/n8n, 8.1K stars, 93% AGR).** Workflow automation tool (an open-source alternative to Zapier). Founded in 2019 in Berlin and raised $1.5M from Sequoia, Firstminute Capital, _[Runa Capital](https://runacap.com/)._
-
 12. 🇵🇱 **[Saleor](https://saleor.io/) (mirumee/saleor, 8.2K stars, 92% AGR).** Headless e-commerce platform. Founded in 2019 in Wroclaw, Poland and has no known external funding
-
 13. 🇫🇷 **[Strapi](http://strapi.io/) (strapi/strapi, 26.7K stars, 88% AGR).** Headless content management system. Founded in 2016 in Paris and raised $14M from Index Ventures, Accel, Stride.VC, etc.
-
 14. 🇺🇸 **[Brave](https://brave.com/) (brave/brave-browser, 6.5K stars, 87% AGR).** Next-generation secure and private browser. Founded in 2015 in San Francisco and raised $42M from Founders Fund, Foundation Capital, etc
-
 15. 🇨🇦 **[Resemble](http://resemble.ai/) (corentinj/real-time-voice-cloning, 18.2K stars, 80% AGR).** AI engine for realistic voice cloning. Founded in 2018 in Toronto and raised $2M from GMG Ventures, Firstminute Capital, Canaan Partners, etc
-
 16. 🇹🇷 **[Volosoft](http://volosoft.com/) (abpframework/abp, 3.9K stars, 79% AGR).** Software development tools trending with its open-source framework ABP for ASP.net. Founded in 2016 in Istanbul and has no known external funding.
-
 17. 🇬🇧 **[Riot IM](http://riot.im/) (vector-im/riot-web, 5.1K stars, 71% AGR).** Decentralised secure communication tools (ex Vector IM). Founded in 2017 in London and raised $18.1M from Dawn Capital, Firstminute Capital, Notion, etc
-
 18. 🇺🇸 **[Iterative](http://iterative.ai/) (iterative/dvc, 5.4K stars, 61% AGR).** Version control system for datasets and machine learning models. Founded in 2018 in San Francisco and raised $3.9M from Afore Capital, True Ventures, etc.
-
 19. 🇩🇪 **[Chatwoot](https://www.chatwoot.com/) (chatwoot/chatwoot, 4.2K stars, 58% AGR).** Live chats for customer support (an open-source alternative to Intercom). Founded in 2017 in Bengaluru, India and has no known external funding.
-
 20. 🇮🇳 **[Rasa](https://rasa.com/) (rasahq/rasa, 9.0K stars, 58% AGR).** Conversational AI assistant. Founded in 2016 in Berlin and raised $40.1M from Andreessen Horowitz, Accel, Mango Capital, etc

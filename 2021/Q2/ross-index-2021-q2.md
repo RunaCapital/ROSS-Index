@@ -1,41 +1,22 @@
 # Top trending open-source startups in Q2 2021
 
 1. 🇬🇧 **[NocoDB](https://www.nocodb.com/) (nocodb/nocodb, 13.3K stars, 9104% AGR).** No-code database tool (alternative to Airtable). Founded in 2021 in Poole (UK) and has no known external funding.
-
 2. 🇩🇪 **[Jina AI](https://jina.ai/) (jina-ai/jina, 6.9K stars, 4427% AGR).** Neural search ecosystem for businesses and developers. Neural search ecosystem for businesses and developers. Founded in 2020 in Berlin and raised $7.5M from GGV Capital, SAP.io, Yunqi Partners.
-
 3. 🇮🇳 **[Appsmith](https://www.appsmith.com/) (appsmithorg/appsmith, 4.8K stars, 2770% AGR).** Framework for the building of admin panels, CRUD apps and workflows. Founded in 2019 in Bengaluru and has no known external funding.
-
 4. 🇸🇬 **[Supabase](https://supabase.io) (supabase/supabase, 14.2K stars, 1540% AGR).** RESTful APIs for PostgreSQL without a single line of code (open-source alternative to Firebase). Founded in 2020 in Singapore and raised $6.1M from Coatue and Y Combinator.
-
 5. 🇨🇦 **[Tailwind Labs](https://tailwindcss.com/) (tailwindlabs/headlessui, 9.7K stars, 810% AGR).** The developer of popular US framework Tailwind CSS. Founded in 2017 in Cambridge (Canada) and has no known external funding.
-
 6. 🇺🇸 **[Porter](https://www.getporter.dev/) (porter-dev/porter, 2.5K stars, 641% AGR).** Cloud app deployment platform. Founded in 2020 in New York and raised $125K from Y Combinator.
-
 7. 🇺🇸 **[Mattermost](https://mattermost.com/) (mattermost/focalboard, 4K stars, 572% AGR).** Collaboration platform (alternative to Slack). Founded in 2015 in Palo Alto and raised $70M from S28, Y Combinator, Redpoint, Battery Ventures, etc.
-
 8. 🇺🇸 **[Airbyte](https://airbyte.io/) (airbytehq/airbyte, 3.3K stars, 529% AGR).** Data integration platform. Founded in 2020 in San Francisco and raised $31.2M from Accel, 8VC, Y Combinator, etc.
-
 9. 🇺🇸 **[CodeNotary](https://www.codenotary.com/) (codenotary/immudb, 2.9K stars, 514% AGR).** Software supply chain audit based on the immutable database. Founded in 2018 in Houston and raised $7M from Elaia, Bluwat, Acequia Capital.
-
 10. 🇮🇱 **[Appwrite](https://appwrite.io/) (appwrite/appwrite, 10K stars, 511% AGR).** Backend-as-a-service for web, mobile and Flutter developers. Founded in 2019 in Tel Aviv and has no known external funding.
-
 11. 🇩🇪 **[Prisma](https://www.prisma.io) (prisma/prisma, 14.5K stars, 457% AGR).** Database toolkit for TypeScript and Node.js. Founded in 2016 in Berlin raised $16.5M from Kleiner Perkins, Mango Capital, Amplify Partners, etc.
-
 12. 🇮🇳 **[Space Cloud](https://space-cloud.io/) (spacecloud-io/space-cloud, 3K stars, 393% AGR).** Serverless cloud platform. Founded in 2017 in Mumbai and has no known external funding.
-
 13. 🇬🇧 **[Raycast](https://raycast.com/) (raycast/script-commands, 1.9K stars, 391% AGR).** CLI-based developer productivity tool. Founded in 2020 in London and raised $2.7M from Accel, Y Combinator and Chapter One, etc.
-
 14. 🇺🇸 **[Uniswap](https://uniswap.org/) (uniswap/uniswap-interface, 2.1K stars, 374% AGR).** Decentralised trading Ethereum-based protocol. Founded in 2018 in New York and raised $11M from A16Z, USV, SV Angel, Version One, etc.
-
 15. 🇺🇸 **[Storj](https://www.storj.io/) (storj/storj, 1.9K stars, 330% AGR).** Decentralised cloud storage. Founded in 2014 in Atlanta and raised $35.4M from GVA, TechSquare Labs, etc.
-
 16. 🇺🇸 **[Serverless Stack](https://serverless-stack.com/) (serverless-stack/serverless-stack, 2K stars, 314% AGR).** The developer of SST framework for serverless apps. Founded in 2017 in San Francisco and raised unknown funding from Y Combinator, SV Angel, Greylock, etc.
-
 17. 🇬🇧 **[QuestDB](https://questdb.io/) (questdb/questdb, 4K stars, 264% AGR).** Time-series database. Founded in 2019 in London and raised $2.3M from Episode 1, Y Combinator, Kima Ventures Seedcamp, etc.
-
 18. 🇵🇱 **[MLJAR](https://mljar.com/) (mljar/mljar-supervised, 1.4K stars, 245% AGR).** ML pipeline platform. Founded in 2016 in Warsaw and has no known external funding.
-
 19. 🇷🇺 **[Alpha Cephei](https://alphacephei.com/) (alphacep/vosk-api, 1.9K stars, 241% AGR).** The developer of Vosk, offline speech recognition API. Founded in 2015 in Moscow and has no known external funding.
-
 20. 🇬🇧 **[Budibase](https://www.budibase.com/) (budibase/budibase, 4K stars, 224% AGR).** Low-code platform for the building of internal tools. Founded in 2020 in Belfast and raised $391K from Techstart Ventures.
