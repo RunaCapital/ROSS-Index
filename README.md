@@ -119,14 +119,6 @@ Given the open-source nature of data, some inaccuracies are possible. Runa Capit
 | 21 Oct 2020                       | Introduction of the ROSS Index, the extension of open-source growth benchmarks to various programming languages and the fastest-growing open-source startups in Q3 2020                                                                                                               |
 | 6 Jul 2020                        | Open-source growth benchmarks, the power laws of Github and the fastest-growing open-source startups in Q2 2020                                                                                                                                                                       |
 
-## About Runa Capital
-
-Runa Capital is a venture capital firm that actively invests in open-source startups. Notable investments include Nginx and MariaDB. The firm believes that an active developer community is instrumental for software businesses and uses the ROSS Index to track and highlight promising tech companies with fast-growing developer communities.
-
-## Acknowledgments
-
-_Special thanks to [Nikola Balic](https://www.linkedin.com/in/nikolabalic/?originalSubdomain=hr) for providing valuable feedback to help further refine the methodology._
-
 ---
 
 *The ROSS Index is maintained by Runa Capital and published quarterly.*
