@@ -83,36 +83,36 @@ Given the open-source nature of data, some inaccuracies are possible. Runa Capit
 
 ## Change Log
 
-| Date | Update |
-|------|--------|
-| 17 Jul 2025 | Released the index for Q2 2025 |
-| 10 Apr 2025 | Released the index for Q1 2025 |
-| 22 Mar 2025 | Released the annual index for 2024. The report got coverage in Techcrunch |
-| 27 Jan 2025 | Released the index for Q4 2024 |
-| 30 Oct 2024 | Released the index for Q3 2024 |
-| 24 July 2024 | Released the index for Q2 2024 |
-| 29 Apr 2024 | Released the index for Q1 2024. Updated the methodology to introduce new 90-day "sliding window" approach |
-| 26 Mar 2024 | Released the annual index for 2023. The report got coverage in Techcrunch |
-| 19 Jan 2024 | Released the index for Q4 2023 |
-| 25 Oct 2023 | Released the index for Q3 2023 |
-| 27 July 2023 | Released the index for Q2 2023 |
-| 18 Apr 2023 | Released the index for Q1 2023 |
-| 8 Feb 2023 | Released the index for Q4 2022 |
-| 1 Feb 2023 | Released the annual index for 2022. The report got coverage in Techcrunch and Sifted.eu |
-| 25 Oct 2022 | Released the index for Q3 2022 |
-| 14 Jul 2022 | Released the index for Q2 2022 |
-| 20 Jun 2022 | Released the ROSS badges for your websites |
-| 19 Apr 2022 | Released the index for Q1 2022 |
-| 25 Jan 2022 | Launched the awesome list of open-source alternatives to SaaS, created by startups, on Github |
-| 17 Jan 2022 | Released the index for Q4 2021 and added "one repo at the top" rule (thanks to builder.io case) |
-| 18 Oct 2021 | Released the index for Q3 2021 |
-| 6 Jul 2021 | Released the index for Q2 2021 |
-| 19 Apr 2021 | Released the index for Q1 2021 |
-| 25 Feb 2021 | Introduced a fresh approach to OSS contribution metrics and deeply analyzed OS databases |
-| 12 Jan 2021 | Released the index for Q4 2020 and snapshots for its previous issues (Q2 2020, Q3 2020) |
-| 22 Oct 2020 | The initial version of the Q3 index contained 2 other companies (Pomerium – #19, Parity – #20) and missed 2 current participants (Checkly, Alegro). Thanks to the bug report of Hannes Lenko, it was quickly fixed, while more checks were added in the future to improve the process |
-| 21 Oct 2020 | Introduction of the ROSS Index, the extension of open-source growth benchmarks to various programming languages and the fastest-growing open-source startups in Q3 2020 |
-| 6 Jul 2020 | Open-source growth benchmarks, the power laws of Github and the fastest-growing open-source startups in Q2 2020 |
+| <div style="width:6em">Date</div> | Update                                                                                                                                                                                                                                                                                |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 17 Jul 2025                       | Released the index for Q2 2025                                                                                                                                                                                                                                                        |
+| 10 Apr 2025                       | Released the index for Q1 2025                                                                                                                                                                                                                                                        |
+| 22 Mar 2025                       | Released the annual index for 2024. The report got coverage in Techcrunch                                                                                                                                                                                                             |
+| 27 Jan 2025                       | Released the index for Q4 2024                                                                                                                                                                                                                                                        |
+| 30 Oct 2024                       | Released the index for Q3 2024                                                                                                                                                                                                                                                        |
+| 24 July 2024                      | Released the index for Q2 2024                                                                                                                                                                                                                                                        |
+| 29 Apr 2024                       | Released the index for Q1 2024. Updated the methodology to introduce new 90-day "sliding window" approach                                                                                                                                                                             |
+| 26 Mar 2024                       | Released the annual index for 2023. The report got coverage in Techcrunch                                                                                                                                                                                                             |
+| 19 Jan 2024                       | Released the index for Q4 2023                                                                                                                                                                                                                                                        |
+| 25 Oct 2023                       | Released the index for Q3 2023                                                                                                                                                                                                                                                        |
+| 27 July 2023                      | Released the index for Q2 2023                                                                                                                                                                                                                                                        |
+| 18 Apr 2023                       | Released the index for Q1 2023                                                                                                                                                                                                                                                        |
+| 8 Feb 2023                        | Released the index for Q4 2022                                                                                                                                                                                                                                                        |
+| 1 Feb 2023                        | Released the annual index for 2022. The report got coverage in Techcrunch and Sifted.eu                                                                                                                                                                                               |
+| 25 Oct 2022                       | Released the index for Q3 2022                                                                                                                                                                                                                                                        |
+| 14 Jul 2022                       | Released the index for Q2 2022                                                                                                                                                                                                                                                        |
+| 20 Jun 2022                       | Released the ROSS badges for your websites                                                                                                                                                                                                                                            |
+| 19 Apr 2022                       | Released the index for Q1 2022                                                                                                                                                                                                                                                        |
+| 25 Jan 2022                       | Launched the awesome list of open-source alternatives to SaaS, created by startups, on Github                                                                                                                                                                                         |
+| 17 Jan 2022                       | Released the index for Q4 2021 and added "one repo at the top" rule (thanks to builder.io case)                                                                                                                                                                                       |
+| 18 Oct 2021                       | Released the index for Q3 2021                                                                                                                                                                                                                                                        |
+| 6 Jul 2021                        | Released the index for Q2 2021                                                                                                                                                                                                                                                        |
+| 19 Apr 2021                       | Released the index for Q1 2021                                                                                                                                                                                                                                                        |
+| 25 Feb 2021                       | Introduced a fresh approach to OSS contribution metrics and deeply analyzed OS databases                                                                                                                                                                                              |
+| 12 Jan 2021                       | Released the index for Q4 2020 and snapshots for its previous issues (Q2 2020, Q3 2020)                                                                                                                                                                                               |
+| 22 Oct 2020                       | The initial version of the Q3 index contained 2 other companies (Pomerium – #19, Parity – #20) and missed 2 current participants (Checkly, Alegro). Thanks to the bug report of Hannes Lenko, it was quickly fixed, while more checks were added in the future to improve the process |
+| 21 Oct 2020                       | Introduction of the ROSS Index, the extension of open-source growth benchmarks to various programming languages and the fastest-growing open-source startups in Q3 2020                                                                                                               |
+| 6 Jul 2020                        | Open-source growth benchmarks, the power laws of Github and the fastest-growing open-source startups in Q2 2020                                                                                                                                                                       |
 
 ## About Runa Capital
 
