@@ -4,7 +4,7 @@ Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),
 851321035,aidenybai/react-scan,Million,million.dev,United States,San Francisco,2023,0.50,TypeScript,899,14697,14.70,2024-11-16,2025-02-14
 826170402,elizaos/eliza,elizaOS,elizaos.ai,United States,San Francisco,2024,,TypeScript,989,14356,14.36,2024-11-16,2025-02-14
 439772085,linera-io/linera-protocol,Linera,linera.io,United States,San Francisco,2021,12.00,Rust,1435,20485,14.28,2024-12-31,2025-03-31
-847717439,raga-ai-hub/ragaai-catalyst,RagaAI,raga.ai,India,India,2021,4.70,Python,1105,14940,13.52,2024-12-07,2025-03-07
+847717439,raga-ai-hub/ragaai-catalyst,RagaAI,raga.ai,India,,2021,4.70,Python,1105,14940,13.52,2024-12-07,2025-03-07
 805155266,cherryhq/cherry-studio,Cherry Studio,cherry-ai.com,China,Shanghai,2021,,TypeScript,1605,18424,11.48,2024-12-08,2025-03-08
 839037098,mastra-ai/mastra,Mastra,mastra.ai,United States,San Francisco,2024,0.50,TypeScript,1175,11453,9.75,2024-12-31,2025-03-31
 683347556,tursodatabase/limbo,Turso,turso.tech,United States,"Claymont, DE",2021,7.00,Rust,1049,9744,9.29,2024-12-09,2025-03-09
@@ -14,7 +14,7 @@ Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),
 818331198,pydantic/pydantic-ai,Pydantic,pydantic.dev,United Kingdom,London,2017,17.20,Python,66,6900,6.90,2024-12-08,2025-03-08
 807512074,quivrhq/megaparse,Quivr,quivr.app,United States,New York,2022,3.55,Python,770,5819,5.82,2024-12-07,2025-03-07
 859600320,raidendotai/cofounder,OpenInterface,openinterface.ai,United States,"Wilmington, DE",2024,,TypeScript,484,5817,5.82,2024-11-02,2025-01-31
-871781831,readest/readest,Readest,readest.com,Germany,Germany,2024,,TypeScript,966,5450,5.45,2024-12-22,2025-03-22
+871781831,readest/readest,Readest,readest.com,Germany,,2024,,TypeScript,966,5450,5.45,2024-12-22,2025-03-22
 803014189,better-auth/better-auth,Better Auth,better-auth.com,Ethiopia,Addis Ababa,2024,,TypeScript,1103,5640,5.11,2024-10-03,2025-01-01
 571186647,pathwaycom/pathway,Pathway,pathway.com,France,Paris,2020,14.50,Python,4389,22374,5.10,2024-12-08,2025-03-08
 887503379,toolbeam/openauth,SST,sst.dev,United States,San Francisco,2017,1.62,TypeScript,279,4807,4.81,2024-12-10,2025-03-10

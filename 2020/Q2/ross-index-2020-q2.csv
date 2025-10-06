@@ -18,4 +18,4 @@ Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),
 39487546,vector-im/riot-web,Riot IM,riot.im,United Kingdom,London,2017,18.1,TypeScript,4469,5112,1.14,2020-03-30,2020-06-30
 83878269,iterative/dvc,Iterative,iterative.ai,United States,San Francisco,2018,3.9,Python,4777,5384,1.13,2020-03-30,2020-06-30
 70908208,rasahq/rasa,Rasa,rasa.com,Germany,Berlin,2016,40.1,Python,8004,8975,1.12,2020-03-30,2020-06-30
-202291859,chatwoot/chatwoot,Chatwoot,chatwoot.com,India,"Bengaluru, India",2017,,Ruby,3767,4226,1.12,2020-03-30,2020-06-30
+202291859,chatwoot/chatwoot,Chatwoot,chatwoot.com,India,"Bengaluru",2017,,Ruby,3767,4226,1.12,2020-03-30,2020-06-30
