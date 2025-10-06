@@ -1,6 +1,11 @@
 # ROSS Index
 
-<a href="https://runacap.com/ross-index/" target="_blank"><img src="https://runacap.com/wp-content/uploads/2025/10/ROSS_white_edition_badge.svg" alt="ROSS Index: the top trending open-source startups, every quarter" style="width: 260px; height: 56px;" width="260" height="56"/></a>
+- **2020:** [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2020/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2020/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2020/Q4)  
+- **2021:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2021/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2021/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2021/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2021/Q4)  
+- **2022:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Q4), [Annual](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Annual)  
+- **2023:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q4), [Annual](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Annual)  
+- **2024:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q4), [Annual](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Annual)  
+- **2025:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q2)  
 
 ## Overview
 
