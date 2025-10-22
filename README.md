@@ -9,116 +9,51 @@
 
 ## Overview
 
-The **Runa Open Source Startup (ROSS) Index** publishes the top trending open-source startups by the growth rate of GitHub stars at their repositories. Such an approach allows for highlighting those OSS products that were on top of developers' minds during the past quarter or year.
+Since Q2 2020, the **[ROSS Index](https://runacap.com/ross-index/url)** publishes the top open-source startups by the relative growth rate of GitHub stars at their repositories. The calculation of the growth rate starts from the moment when a repo crosses a 1000-star mark, and the results are published every quarter.
 
-Runa Capital actively invests in open-source startups (like [Nginx](https://runacap.com/companies/nginx/) and [MariaDB](https://runacap.com/companies/mariadb/)) and considers an active developer community instrumental for software businesses. The firm tracks promising tech companies with fast-growing developer communities on GitHub and open-sources part of their findings as this index.
-
-## Key Features
-
-- **Transparent**: Simple, verifiable methodology based on public GitHub data
-- **Measurable**: Uses GitHub stars as a consistent metric across projects
-- **Startup-Focused**: Exclusively highlights commercial open-source startups, not established companies or side projects
-- **Quarterly Updates**: Published every quarter with annual summaries
+The purpose of this index is to highlight new, trending open-source startups using a simple and transparent basis. It is maintained by venture capital firm Runa Capital, which has invested early in many OSS startups, including [n8n](https://n8n.io/), [Nginx](http://nginx.com/), [MariaDB](https://mariadb.com/), [Twenty](https://twenty.com/) and [Mastra](https://mastra.ai/).
 
 ## Methodology
 
-### Data Collection
+### Why do we only use GitHub star growth?
 
-The ROSS Index collects data on all repositories with **1,000+ GitHub stars**. The top trending open-source startups affiliated with these repos are published on a quarterly or annual basis.
+We chose only one basic metric as, otherwise, it would be hard to verify the index results externally. Any composite and complex derivative metrics overcomplicate the picture and are better consumed internally. 
 
-### Ranking Criteria
+We chose “stars” because it allows for a reasonable comparison between various repos using the same scale while showing trending open-source products. There is no perfect business metric for open-source software — all have their flaws. For instance, “contributors” are good for comparing “apples to apples” (e.g. databases), but can barely be used for different categories of software. Stars seem the best single metric for index purposes.
 
-Repositories are ranked based on their **maximum star growth rate** over all 90-day periods ending within the target quarter.
+We measure the relative growth of stars (and not absolute) because it shifts focus from established open-source champions to interesting newcomers in the developer community. GitHub has network effects, so it is easier to acquire stars for already well-starred repos. But this index is about startups!
 
-#### Calculation Method (Since Q1 2024)
+### Calculation approach (since Q1 2024)
+We rank repositories based on their maximum star growth rate over all 90-day periods ending within the target quarter. The ranking criteria are:
 
-The index uses a sliding "90-day window" approach to detect fast-growing repos even if their growth spike happened between calendar periods. This methodology was updated in Q1 2024 to better capture trending startups.
+1. The observation period can begin only when the repo has 1,000+ stars.
+2. The observation period always consists of 90 consecutive days.
+3. The observation period must end within the target quarter.
+4. Growth rate is calculated as: (Stars at period end) / (Stars at period start)
 
-#### Previous Calculation Method (2020-2023)
+Repositories are then ranked by their growth rate in descending order. Our team only selects the repos belonging to startups and publishes the top-20 in the ranking. If a startup has several top repos, we will only mention the one with the best growth rate.
 
-Previously, the relative growth of stars was calculated within a fixed period (quarter or year) for all repos with at least 1,000 stars at the start of the period, using:
+### Startup definition
+For purposes of the index, we define a “startup” as a product-focused commercial organization that
 
-**AGR = (value now / value 1 quarter ago)⁴ – 1**
+1. was founded fewer than ten years ago
+2. raised less than $100M in total known funding
+3. has a product reasonably connected to its open-source repos
+4. was not acquired or went public before the end of the target period
 
-### Why GitHub Stars?
+This definition does not cover, for instance, side projects. For example, when a founder has another full-time job. Nor does it include projects without any associated commercial product-focused entity or those developed by large tech corporations. The definition also excludes businesses that are mostly focused on the provision of professional services.
 
-Stars were chosen as the primary metric because they:
-- Allow reasonable comparison between various repos using the same scale
-- Show trending open-source products
-- Are publicly verifiable and transparent
+### Open source definition
 
-While no metric is perfect for open-source software, stars are considered the best single metric for index purposes. Other metrics like "contributors" are good for comparing similar projects but cannot be easily used across different categories of software.
+As VC investors, here we stick to the commercial perception of an “open source company” - a tech business leveraging OSS playbook as an approach for product development and go-to-market strategy. So, we would consider, for example, MongoDB as an example of such a company, although their Server Side Public License is not approved by the OSI. The same applies to some source-available participants in the ROSS Index.﻿
 
-### Why Relative Growth?
+### Data sources
 
-The index measures **relative growth** (not absolute) to shift focus from established open-source champions to interesting newcomers in the developer community. GitHub has network effects, making it easier to acquire stars for already well-starred repos, but this index is specifically about startups.
+The index publications are based only on public data from GitHub, Crunchbase, mass media, and other sources. We strive to show cities and countries connected with the origin of companies, not just formal HQ locations. We are purely focused on companies using English descriptions, so some local startups (e.g. Chinese) could be missed.
 
-### Selection Process
+Given the open-source nature of data, some inaccuracies are possible. In any case, Runa Capital does not use any private information received from startups for the index. For instance, we may know that a company raised a new VC round but we will only publish publicly available numbers like those on Crunchbase.
 
-1. Repositories are ranked by their growth rate in descending order
-2. The team selects only repos belonging to startups
-3. The top-20 are published in the ranking
-4. If a startup has several top repos, only the one with the best growth rate is mentioned
+### Old calculation approach (2020-2023)
+In 2020-2023, we have been calculating the relative growth of stars within the fixed period (quarter or year) for all repos with at least 1,000 stars at the start of the period. For that rankings, we used the annualized growth rate which was calculated as AGR = (value now / value 1 quarter ago)⁴ – 1.
 
-## Startup Definition
-
-For purposes of the index, a "startup" is defined as a **product-focused commercial organization** that meets certain criteria.
-
-This definition **does not cover**:
-- Side projects (e.g., when a founder has another full-time job)
-- Projects without any associated commercial product-focused entity
-- Projects developed by large tech corporations
-- Businesses mostly focused on the provision of professional services
-
-### Open Source License Approach
-
-As VC investors, Runa Capital sticks to the commercial perception of "open-source". The index considers companies like Elastic and MongoDB as commercial open-source companies, although their Server Side Public Licenses are not approved by the OSI. The same applies to many participants of the ROSS Index.
-
-## Data Sources and Transparency
-
-The index publications are based only on **public data** from:
-- GitHub
-- Crunchbase
-- Mass media
-- Other public sources
-
-The index strives to show cities and countries connected with the **origin of companies**, not just formal HQ locations. It is purely focused on companies using English descriptions, so some local startups (e.g., Chinese) could be missed.
-
-Given the open-source nature of data, some inaccuracies are possible. Runa Capital does not use any private information received from startups for the index. For instance, they may know that a company raised a new VC round but will only publish publicly available numbers like those on Crunchbase.
-
-## Change Log
-
-| Date                   | Update                                                                                                                                                                                                                                                                                |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 17&nbsp;Jul&nbsp;2025  | Released the index for Q2 2025                                                                                                                                                                                                                                                        |
-| 10&nbsp;Apr&nbsp;2025  | Released the index for Q1 2025                                                                                                                                                                                                                                                        |
-| 22&nbsp;Mar&nbsp;2025  | Released the annual index for 2024. The report got coverage in Techcrunch                                                                                                                                                                                                             |
-| 27&nbsp;Jan&nbsp;2025  | Released the index for Q4 2024                                                                                                                                                                                                                                                        |
-| 30&nbsp;Oct&nbsp;2024  | Released the index for Q3 2024                                                                                                                                                                                                                                                        |
-| 24&nbsp;July&nbsp;2024 | Released the index for Q2 2024                                                                                                                                                                                                                                                        |
-| 29&nbsp;Apr&nbsp;2024  | Released the index for Q1 2024. Updated the methodology to introduce new 90-day "sliding window" approach                                                                                                                                                                             |
-| 26&nbsp;Mar&nbsp;2024  | Released the annual index for 2023. The report got coverage in Techcrunch                                                                                                                                                                                                             |
-| 19&nbsp;Jan&nbsp;2024  | Released the index for Q4 2023                                                                                                                                                                                                                                                        |
-| 25&nbsp;Oct&nbsp;2023  | Released the index for Q3 2023                                                                                                                                                                                                                                                        |
-| 27&nbsp;July&nbsp;2023 | Released the index for Q2 2023                                                                                                                                                                                                                                                        |
-| 18&nbsp;Apr&nbsp;2023  | Released the index for Q1 2023                                                                                                                                                                                                                                                        |
-| 8&nbsp;Feb&nbsp;2023   | Released the index for Q4 2022                                                                                                                                                                                                                                                        |
-| 1&nbsp;Feb&nbsp;2023   | Released the annual index for 2022. The report got coverage in Techcrunch and Sifted.eu                                                                                                                                                                                               |
-| 25&nbsp;Oct&nbsp;2022  | Released the index for Q3 2022                                                                                                                                                                                                                                                        |
-| 14&nbsp;Jul&nbsp;2022  | Released the index for Q2 2022                                                                                                                                                                                                                                                        |
-| 20&nbsp;Jun&nbsp;2022  | Released the ROSS badges for your websites                                                                                                                                                                                                                                            |
-| 19&nbsp;Apr&nbsp;2022  | Released the index for Q1 2022                                                                                                                                                                                                                                                        |
-| 25&nbsp;Jan&nbsp;2022  | Launched the awesome list of open-source alternatives to SaaS, created by startups, on Github                                                                                                                                                                                         |
-| 17&nbsp;Jan&nbsp;2022  | Released the index for Q4 2021 and added "one repo at the top" rule (thanks to builder.io case)                                                                                                                                                                                       |
-| 18&nbsp;Oct&nbsp;2021  | Released the index for Q3 2021                                                                                                                                                                                                                                                        |
-| 6&nbsp;Jul&nbsp;2021   | Released the index for Q2 2021                                                                                                                                                                                                                                                        |
-| 19&nbsp;Apr&nbsp;2021  | Released the index for Q1 2021                                                                                                                                                                                                                                                        |
-| 25&nbsp;Feb&nbsp;2021  | Introduced a fresh approach to OSS contribution metrics and deeply analyzed OS databases                                                                                                                                                                                              |
-| 12&nbsp;Jan&nbsp;2021  | Released the index for Q4 2020 and snapshots for its previous issues (Q2 2020, Q3 2020)                                                                                                                                                                                               |
-| 22&nbsp;Oct&nbsp;2020  | The initial version of the Q3 index contained 2 other companies (Pomerium – #19, Parity – #20) and missed 2 current participants (Checkly, Alegro). Thanks to the bug report of Hannes Lenko, it was quickly fixed, while more checks were added in the future to improve the process |
-| 21&nbsp;Oct&nbsp;2020  | Introduction of the ROSS Index, the extension of open-source growth benchmarks to various programming languages and the fastest-growing open-source startups in Q3 2020                                                                                                               |
-| 6&nbsp;Jul&nbsp;2020   | Open-source growth benchmarks, the power laws of Github and the fastest-growing open-source startups in Q2 2020                                                                                                                                                                       |
-
----
-
-*The ROSS Index is maintained by Runa Capital and published quarterly.*
+Since Q1 2024, we slightly updated the approach with sliding “90-day windows” to detect fast-growing repos even if their growth spike happened between calendar period.
