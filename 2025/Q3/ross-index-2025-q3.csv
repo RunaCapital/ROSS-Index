@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+1006414368,OpenCut-app/OpenCut,OpenCut,opencut.app,,,2025,,TypeScript,818,32001,32.00,2025-06-23,2025-09-21
+975734319,sst/opencode,SST,sst.dev,United States,San Francisco,2017,1.62,TypeScript,951,22136,22.14,2025-06-08,2025-09-06
+955620917,upstash/context7,Upstash,upstash.com,United States,"San Jose, CA",2021,11.90,JavaScript,823,20937,20.94,2025-04-21,2025-07-20
+942837343,eyaltoledano/claude-task-master,Hamster,tryhamster.com,United States,San Francisco,2025,,JavaScript,960,17375,17.38,2025-04-04,2025-07-03
+1004995740,winfunc/opcode,Winfunc,winfunc.com,United States,San Francisco,2024,,TypeScript,844,16556,16.56,2025-06-21,2025-09-19
+964395174,dyad-sh/dyad,Dyad,dyad.sh,United States,"San Jose, CA",2025,,,1004,14075,14.02,2025-05-31,2025-08-29
+969010919,nari-labs/dia,Nari Labs,narilabs.org,South Korea,Seoul,2025,,Python,1460,17549,12.02,2025-04-22,2025-07-21
+976731654,astral-sh/ty,Astral,astral.sh,United States,"Brooklyn, NY",2022,4.00,Python,1,11247,11.25,2025-05-07,2025-08-05
+971241545,resemble-ai/chatterbox,Resemble AI,resemble.ai,Canada,Toronto,2018,12.20,Python,0,10382,10.38,2025-05-28,2025-08-26
+946087422,Kilo-Org/kilocode,Kilo Code,kilocode.ai,United States,"Wilmington, DE",2025,,TypeScript,1014,9252,9.12,2025-06-11,2025-09-09
+949662713,opencode-ai/opencode,Charm,charm.land,United States,New York,2019,9.90,Go,715,8898,8.90,2025-04-26,2025-07-25
+975318071,AsyncFuncAI/deepwiki-open,ASYNCFUNC.,asyncfunc.ai,United States,,2025,,TypeScript,881,8878,8.88,2025-05-03,2025-08-01
+904490600,krillinai/KrillinAI,Krillin AI,klic.studio,China,,2024,,Go,928,8014,8.01,2025-04-08,2025-07-07
+868173144,kortix-ai/suna,Kortix,kortix.ai,United States,San Francisco,2024,,TypeScript,2454,16899,6.89,2025-04-24,2025-07-23
+944976593,tadata-org/fastapi_mcp,Tadata,tadata.com,United States,San Francisco,2024,,Python,945,6475,6.48,2025-04-11,2025-07-10
+973180254,stagewise-io/stagewise,Stagewise,stagewise.io,Germany,Bielefeld,2024,0.50,TypeScript,902,5800,5.80,2025-05-19,2025-08-17
+979392131,ag-ui-protocol/ag-ui,CopilotKit,copilotkit.ai,United States,"Seattle, WA",2023,0.12,TypeScript,451,5770,5.77,2025-05-13,2025-08-11
+835975784,MODSetter/SurfSense,SurfSense,surfsense.net,United States,"San Jose, CA",2025,,Python,1197,5911,4.94,2025-04-14,2025-07-13
+912559512,simstudioai/sim,Sim,sim.ai,United States,San Francisco,2025,0.50,TypeScript,957,4897,4.90,2025-04-18,2025-07-17
+887914303,funstory-ai/BabelDOC,Funstory.ai,funstory.ai,China,Beijing,2017,,Python,952,4510,4.51,2025-04-07,2025-07-06
