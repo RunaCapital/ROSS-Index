@@ -5,7 +5,7 @@
 - **2022:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Q4), [Annual](https://github.com/RunaCapital/ROSS-Index/tree/main/2022/Annual)  
 - **2023:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q4), [Annual](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Annual)  
 - **2024:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q4), [Annual](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Annual)  
-- **2025:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q2)  
+- **2025:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q3)
 
 ## Overview
 
