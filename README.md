@@ -9,7 +9,7 @@
 
 ## Overview
 
-Since Q2 2020, the **[ROSS Index](https://runacap.com/ross-index/url)** publishes the top open-source startups by the relative growth rate of GitHub stars at their repositories. The calculation of the growth rate starts from the moment when a repo crosses a 1000-star mark, and the results are published every quarter.
+Since Q2 2020, the **[ROSS Index](https://runacap.com/ross-index/)** publishes the top open-source startups by the relative growth rate of GitHub stars at their repositories. The calculation of the growth rate starts from the moment when a repo crosses a 1000-star mark, and the results are published every quarter.
 
 The purpose of this index is to highlight new, trending open-source startups using a simple and transparent basis. It was created by [Konstantin Vinogradov](https://github.com/vinogradovkonst) and is maintained by venture capital firm Runa Capital, which has invested early in many OSS startups, including [n8n](https://n8n.io/), [Nginx](http://nginx.com/), [MariaDB](https://mariadb.com/), [Twenty](https://twenty.com/) and [Mastra](https://mastra.ai/).
 
