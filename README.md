@@ -57,3 +57,10 @@ Given the open-source nature of data, some inaccuracies are possible. In any cas
 In 2020-2023, we have been calculating the relative growth of stars within the fixed period (quarter or year) for all repos with at least 1,000 stars at the start of the period. For that rankings, we used the annualized growth rate which was calculated as AGR = (value now / value 1 quarter ago)⁴ – 1.
 
 Since Q1 2024, we slightly updated the approach with sliding “90-day windows” to detect fast-growing repos even if their growth spike happened between calendar period.
+
+## License
+
+The datasets and all other contents of this repository are licensed under the
+Creative Commons Attribution–NoDerivatives 4.0 International License (CC BY-ND 4.0).
+
+See the LICENSE.md file for details.
