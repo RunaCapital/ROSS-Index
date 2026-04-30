@@ -58,7 +58,6 @@ In 2020-2023, we have been calculating the relative growth of stars within the f
 
 Since Q1 2024, we slightly updated the approach with sliding “90-day windows” to detect fast-growing repos even if their growth spike happened between calendar period.
 
-
 ## License
 
 The datasets and all other contents of this repository are licensed under the
