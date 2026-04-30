@@ -6,6 +6,7 @@
 - **2023:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q4)
 - **2024:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q4)
 - **2025:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q4)
+- **2026:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2026/Q1)
 
 ## Overview
 
@@ -23,13 +24,13 @@ We chose “stars” because it allows for a reasonable comparison between vario
 
 We measure the relative growth of stars (and not absolute) because it shifts focus from established open-source champions to interesting newcomers in the developer community. GitHub has network effects, so it is easier to acquire stars for already well-starred repos. But this index is about startups!
 
-### Calculation approach (since Q1 2024)
-We rank repositories based on their maximum star growth rate over all 90-day periods ending within the target quarter. The ranking criteria are:
-
-1. The observation period can begin only when the repo has 1,000+ stars.
-2. The observation period always consists of 90 consecutive days.
-3. The observation period must end within the target quarter.
-4. Growth rate is calculated as: (Stars at period end) / (Stars at period start)
+### Calculation approach (since Q1 2026)
+We rank repositories based on their maximum star growth rate over a 90-day window ending within the target quarter. The ranking criteria are:
+ 
+1. The repo must have 1,000+ stars by the end of the target quarter.
+2. If the repo had 1,000+ stars before the quarter, growth is calculated as **(stars at period end) / (stars at period start)** over any 90 consecutive days ending within the quarter.
+3. If the repo crossed 1,000 stars during the quarter (or was created mid-quarter), we normalize growth to a 90-day baseline as **(stars at quarter end) / 1,000**, so it remains comparable with established projects.
+4. The observation period always ends within the target quarter.
 
 Repositories are then ranked by their growth rate in descending order. Our team only selects the repos belonging to startups and publishes the top-20 in the ranking. If a startup has several top repos, we will only mention the one with the best growth rate.
 
@@ -53,10 +54,12 @@ The index publications are based only on public data from GitHub, Crunchbase, ma
 
 Given the open-source nature of data, some inaccuracies are possible. In any case, Runa Capital does not use any private information received from startups for the index. For instance, we may know that a company raised a new VC round but we will only publish publicly available numbers like those on Crunchbase.
 
-### Old calculation approach (2020-2023)
-In 2020-2023, we have been calculating the relative growth of stars within the fixed period (quarter or year) for all repos with at least 1,000 stars at the start of the period. For that rankings, we used the annualized growth rate which was calculated as AGR = (value now / value 1 quarter ago)⁴ – 1.
-
-Since Q1 2024, we slightly updated the approach with sliding “90-day windows” to detect fast-growing repos even if their growth spike happened between calendar period.
+### Old calculation approach (2020-2025)
+In 2020-2023, we calculated the relative growth of stars within a fixed period (quarter or year) for all repos with at least 1,000 stars at the start of the period. For those rankings, we used the annualized growth rate calculated as AGR = (value now / value 1 quarter ago)⁴ – 1.
+ 
+From Q1 2024, we updated the approach with sliding “90-day windows” to detect fast-growing repos even if their growth spike happened between calendar periods. We still required repos to have 1,000+ stars at the start of the observation window to be eligible.
+ 
+Since Q1 2026, repos qualify if they reach 1,000 stars by the end of the quarter, since AI-era projects often hit 1,000 stars in days rather than years. For repos younger than 90 days, we normalize growth to a 90-day baseline (stars at quarter end ÷ 1,000).
 
 ## License
 
