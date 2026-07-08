@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+1024554267,NousResearch/hermes-agent,Nous Research,nousresearch.com,United States,"Austin, TX",2023,70.00,Python,939,171610,171.61,2026-02-28,2026-05-29
+1136590548,affaan-m/ECC,ECC Tools,ecc.tools,United States,San Francisco,2026,,JavaScript,0,159660,159.66,2026-01-18,2026-04-18
+1200597263,safishamsi/graphify,Graphify,graphifylabs.ai,United States,San Francisco,2025,0.50,Python,,74383,74.38,2026-04-05,2026-06-30
+1223170290,nexu-io/open-design,Nexu,nexu.io,China,,2024,,TypeScript,,72928,72.93,2026-04-28,2026-06-30
+1182081931,Egonex-AI/Understand-Anything,EgonexAI,egonex.ai,United States,"Dover, DE",2026,,TypeScript,908,61614,61.61,2026-03-19,2026-06-17
+1130564872,koala73/worldmonitor,World Monitor,worldmonitor.app,United Arab Emirates,Abu Dhabi,2026,,TypeScript,159,53973,53.97,2026-02-11,2026-05-12
+1129940957,headroomlabs-ai/headroom,Headroom,headroomlabs.ai,United States,"Fremont, CA",2026,,Python,1000,53112,53.11,2026-03-31,2026-06-29
+1139971460,rtk-ai/rtk,rtk,rtk-ai.app,France,Lyon,2026,,Rust,979,50890,50.89,2026-02-19,2026-05-20
+1133707766,multica-ai/multica,Multica,multica.ai,Hong Kong,Hong Kong,2026,,Go,352,38450,38.45,2026-04-01,2026-06-30
+1161163182,tinyhumansai/openhuman,TinyHumans,tinyhumans.ai,United States,San Francisco,2025,,Rust,107,33873,33.87,2026-04-01,2026-06-30
+1177402105,heygen-com/hyperframes,HeyGen,heygen.com,United States,Los Angeles,2020,69.00,TypeScript,3,32177,32.18,2026-04-01,2026-06-30
+1156956890,zeroclaw-labs/zeroclaw,ZeroClaw Labs,zeroclawlabs.ai,United States,"Cambridge, MA",2026,,Rust,1,31339,31.34,2026-02-14,2026-05-15
+1035029907,earendil-works/pi,Earendil Works,earendil.com,United States,,2025,,TypeScript,991,30687,30.69,2026-01-03,2026-04-03
+1197990888,Gitlawb/openclaude,Gitlawb,gitlawb.com,Australia,,2026,,TypeScript,133,29527,29.53,2026-04-01,2026-06-30
+1146738089,nanocoai/nanoclaw,NanoCo,nanoco.ai,Israel,Tel Aviv,2026,12.00,TypeScript,540,28511,28.51,2026-02-02,2026-05-03
+1163834030,CloakHQ/CloakBrowser,CloakHQ,cloakbrowser.dev,,,2026,,Python,998,27064,27.06,2026-03-27,2026-06-25
+1141782198,jamiepine/voicebox,Voicebox,voicebox.sh,Canada,Vancouver,2026,,TypeScript,900,24780,24.78,2026-02-07,2026-05-08
+1166139870,RightNow-AI/openfang,RightNow,rightnowai.co,Jordan,Amman,2025,0.54,Rust,1,17653,17.65,2026-02-26,2026-05-27
+1144115288,manaflow-ai/cmux,Manaflow,manaflow.com,United States,San Francisco,2024,0.50,Swift,439,17644,17.64,2026-02-21,2026-05-22
+1077819522,pascalorg/editor,Pascal,pascal.app,United States,Tampa,2025,,TypeScript,286,16892,16.89,2026-03-22,2026-06-20

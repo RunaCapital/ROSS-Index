@@ -6,7 +6,7 @@
 - **2023:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2023/Q4)
 - **2024:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2024/Q4)
 - **2025:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q2), [Q3](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q3), [Q4](https://github.com/RunaCapital/ROSS-Index/tree/main/2025/Q4)
-- **2026:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2026/Q1)
+- **2026:** [Q1](https://github.com/RunaCapital/ROSS-Index/tree/main/2026/Q1), [Q2](https://github.com/RunaCapital/ROSS-Index/tree/main/2026/Q2)
 
 ## Overview
 
