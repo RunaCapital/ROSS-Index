@@ -1,0 +1,21 @@
+Repo ID,Repo Name,Company Name,Company Website,Country,City,Founded,Raised ($M),Repo Language,Stars BOP,Stars EOP,Stars Growth (x),Date BOP,Date EOP
+1223170290,nexu-io/open-design,OpenDesign,open-design.ai,United States,"San Jose, CA",2024,,TypeScript,0,81733,81.73,2026-04-28,2026-07-27
+1200597263,Graphify-Labs/graphify,Graphify,graphify.com,United States,San Francisco,2026,0.50,Python,422,78165,78.17,2026-04-07,2026-07-06
+1129940957,headroomlabs-ai/headroom,Headroom,headroomlabs.ai,United States,"Fremont, CA",2026,,Python,1063,54661,51.42,2026-04-02,2026-07-01
+1133707766,multica-ai/multica,Multica,multica.ai,United Arab Emirates,Dubai,2025,,Go,352,38598,38.60,2026-04-02,2026-07-01
+1161163182,tinyhumansai/openhuman,TinyHumans,tinyhumans.ai,United States,San Francisco,2025,,Rust,847,36105,36.11,2026-05-11,2026-08-09
+1177402105,heygen-com/hyperframes,HeyGen,heygen.com,United States,Los Angeles,2020,69.00,TypeScript,434,35450,35.45,2026-04-17,2026-07-16
+1193909050,herdrdev/herdr,Herdr,herdr.dev,Turkey,Ankara,2026,6.00,Rust,898,29136,29.14,2026-05-17,2026-08-15
+1163834030,CloakHQ/CloakBrowser,CloakBrowser,cloakbrowser.dev,,,2026,,Python,1073,27477,25.61,2026-04-02,2026-07-01
+1322012299,firecrawl/anydoc,Firecrawl,firecrawl.dev,United States,San Francisco,2022,91.20,Rust,,22267,22.27,2026-08-03,2026-09-30
+1232493406,PrimeIntellect-ai/prime-agent,Prime Intellect,primeintellect.ai,United States,San Francisco,2024,150.50,Rust,,21387,21.39,2026-07-20,2026-09-30
+1183888342,stablyai/orca,Stably AI,stably.ai,United States,San Francisco,2022,0.50,TypeScript,2146,40821,19.02,2026-05-12,2026-08-10
+1316470719,hypit-ai/hypit,Hypit AI,hypit.ai,Hong Kong,Hong Kong,2026,,TypeScript,,17509,17.51,2026-07-27,2026-09-30
+1212503250,citrolabs/ego-lite,Citro Labs,citrolabs.ai,United States,San Francisco,2024,,JavaScript,274,16682,16.68,2026-07-02,2026-09-30
+1222527844,ifixai-ai/iFixAi,iFixAi,ifixai.ai,United States,San Francisco,2026,,Python,594,16675,16.68,2026-07-02,2026-09-30
+1213049020,browser-use/browser-harness,Browser Use,browser-use.com,United States,San Francisco,2024,17.50,Python,578,16050,16.05,2026-04-19,2026-07-18
+1203468533,palmier-io/palmier-pro,Palmier,palmier.io,United States,San Francisco,2024,0.50,Swift,340,14413,14.41,2026-06-18,2026-09-16
+1173848034,oblien/openship,Oblien,oblien.com,United States,San Francisco,2025,,TypeScript,28,13824,13.82,2026-07-02,2026-09-30
+1287908540,hydra-db/hydradb,HydraDB,hydradb.com,United States,San Francisco,2025,6.50,Rust,,12828,12.83,2026-07-20,2026-09-30
+1076362809,corsairdev/corsair,Corsair,corsair.dev,United States,New York,2024,0.50,TypeScript,952,11109,11.11,2026-06-03,2026-09-01
+1318768894,trycompai/crm,Comp AI,trycomp.ai,United States,"Miami, FL",2025,36.60,TypeScript,,10971,10.97,2026-07-27,2026-09-30
